@@ -7,8 +7,20 @@
 - Stem: MX-style "+" stem (per Choc v2 description).
 - Hot-swap: required.
 - Controller: nice!nano v2-compatible BLE clones (same pinout as nice!nano v2).
-- Features: no rotary encoder, no OLED; RGB/underglow undecided but likely skipped for thinness.
+- Features: no rotary encoder, no OLED; white backlight via edge-lit plate.
 - Case: custom, as thin as possible.
+- Firmware: ZMK.
+- Fn layer: right Menu key.
+- Device switching: map Device 1/2/3 to the three keys right of F12 (Print/Scroll/Pause positions).
+- Keymap change: Insert key performs Print Screen.
+- Re-pair: Fn+Device 1/2/3 macros force-select profile 0/1/2, clear bond (BT_CLR), then re-select that profile to enter pairing; avoids BT_CLR_ALL.
+- Device select: tap Device 1/2/3 selects and connects to profile 0/1/2.
+- Battery: 4 mm thickness, JST-PH.
+- Keycaps: low-profile, 8–9 mm height.
+- Stabilizers: Kailh Choc low-profile plate-mount (4x 2u, 1x 6.25u).
+- Backlight: single-zone white; use 1 mm clear plate as the edge-lit light guide with up to 16 side-emitting 1206 LEDs around the perimeter; warm/neutral based on LED availability.
+- External power switch: yes, edge-mounted slide switch.
+- Reset/boot access: onboard only.
 
 ## Findings / constraints
 - Kailh product note: these switches are not compatible with Cherry MX key pin layouts and not compatible with Choc v1 keycaps.
@@ -16,8 +28,6 @@
 - Thin build drivers: battery thickness, PCB thickness, and component height will dominate overall thickness.
 
 ## Open decisions
-- Hot-swap socket part number (confirm the exact Kailh Choc socket used).
-- Stabilizers (low-profile plate-mount vs PCB-mount; sizes needed for TKL).
-- Battery size and connector (thickness target, capacity, and JST type on the clone boards).
-- Keycap profile suitability for low-profile build (current set may be standard-height).
-
+- Warm vs neutral LED selection based on availability.
+- External power switch placement.
+- Confirm exact Fn+Device 1/2/3 macro order if needed.
