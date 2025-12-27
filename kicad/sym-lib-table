@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ScottoKeebs")(type "KiCad")(uri "${KIPRJMOD}/lib/ScottoKicad/symbols/ScottoKeebs.kicad_sym")(options "")(descr "ScottoKicad symbols"))
+)

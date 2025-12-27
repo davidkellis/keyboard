@@ -21,8 +21,10 @@
 - Backlight: single-zone white; use 1 mm clear plate as the edge-lit light guide with up to 16 side-emitting 1206 LEDs around the perimeter; warm/neutral based on LED availability.
 - External power switch: yes, edge-mounted slide switch on the back edge (back-right).
 - Reset/boot access: onboard only.
-- Matrix: use MCP23017 I2C expander for columns with rows on the nice!nano.
+- Matrix: 8x16; rows on nice!nano (D4-D9, D16, D14) and columns on MCP23017.
 - MCP23017 I2C address: 0x20 (A0-A2 tied to GND).
+- PCB thickness: 1.2 mm (initial assumption for thin build).
+- KiCad libraries: ScottoKicad vendored at kicad/lib/ScottoKicad.
 
 ## Findings / constraints
 - Kailh product note: these switches are not compatible with Cherry MX key pin layouts and not compatible with Choc v1 keycaps.
@@ -32,3 +34,4 @@
 ## Open decisions
 - Warm vs neutral LED selection based on availability.
 - LED part selection based on availability (side-emitting 1206, warm/neutral).
+- Side-emitting LED footprint (current schematic uses generic 1206 placeholder).

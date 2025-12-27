@@ -33,9 +33,7 @@
    - Decision: switch on the back edge.
 
 8) Confirm matrix I/O strategy
-   - Likely needs an I2C GPIO expander (MCP23017) to fit 87 keys.
-   - Decision: use MCP23017.
-   - Decision: I2C address 0x20 (A0-A2 tied to GND).
+   - Decision: use MCP23017 at 0x20 with 8x16 matrix.
    - Decision: row/column pin assignment set in hardware/matrix_plan.md.
 
 9) Begin design artifacts
@@ -43,5 +41,50 @@
      - Done: layout/ansi_tkl_device_keys.kle.json.
    - Draft schematic plan for KiCad.
      - Done: hardware/schematic_plan.md.
-   - Import into KiCad, create schematic (matrix + diodes + nice!nano + power) and PCB.
+   - Create initial KiCad project files.
+     - Done: kicad/tkl_low_profile.kicad_pro
+     - Done: kicad/tkl_low_profile.kicad_sch
+     - Done: kicad/tkl_low_profile.kicad_pcb
+   - Vendor ScottoKicad libraries and add project library tables.
+     - Done: kicad/lib/ScottoKicad
+     - Done: kicad/fp-lib-table
+     - Done: kicad/sym-lib-table
+   - Generate matrix-annotated layout + switch/diode schematic.
+     - Done: layout/ansi_tkl_device_keys.matrix.json
+     - Done: kicad/tkl_low_profile.kicad_sch
+     - Done: hardware/matrix_map.csv
+   - Add core components to schematic (nice!nano, MCP23017, power, backlight placeholders).
+     - Done: kicad/tkl_low_profile.kicad_sch
+   - Wire the schematic (rows/cols, I2C, power, backlight nets).
    - Add BLE antenna keep-out and board outline for custom case.
+
+
+• I proceeded by generating the switch/diode matrix schematic from the KLE, then injecting the core electronics symbols into the schematic so the project can move into
+  wiring and PCB layout.
+
+  What’s in place now
+
+  - Switch/diode matrix schematic from the annotated KLE in kicad/tkl_low_profile.kicad_sch.
+  - Extra symbols placed in the schematic for nice!nano (U1), MCP23017 (U2), battery connector, power switch, backlight MOSFET, pull‑ups, decoupling, and 16 LED/
+    resistor placeholders.
+  - Matrix map exported at hardware/matrix_map.csv and updated plan/docs.
+
+  Key files
+
+  - kicad/tkl_low_profile.kicad_sch
+  - layout/ansi_tkl_device_keys.matrix.json
+  - hardware/matrix_map.csv
+  - hardware/matrix_plan.md
+  - hardware/schematic_plan.md
+
+  Important note
+
+  - The new symbols are placed but not wired yet (no net labels or wires). The schematic is ready for wiring, then PCB update.
+
+  If you want me to continue, I can:
+
+  1. Wire the schematic (ROW/COL nets, I2C, power switch + battery, backlight MOSFET + LED rails).
+  2. Update the PCB from the schematic.
+  3. Place switch footprints using the KLE mapping and start routing.
+
+  Say “continue wiring” and I’ll move on to step 1.

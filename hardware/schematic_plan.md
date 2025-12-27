@@ -5,7 +5,7 @@
 - BLE antenna keep-out noted on PCB outline.
 
 ## Matrix
-- 6x15 matrix, row-to-column diode direction.
+- 8x16 matrix, row-to-column diode direction.
 - Rows on nice!nano:
   - ROW0: D4  (P0.22)
   - ROW1: D5  (P0.24)
@@ -13,10 +13,11 @@
   - ROW3: D7  (P0.11)
   - ROW4: D8  (P1.04)
   - ROW5: D9  (P1.06)
+  - ROW6: D16 (P0.10)
+  - ROW7: D14 (P1.11)
 - Columns on MCP23017 @ 0x20:
-  - COL0-7: GPA0-7
-  - COL8-14: GPB0-6
-  - GPB7 unused
+  - COL0-7:  GPA0-7
+  - COL8-15: GPB0-7
 
 ## MCP23017 (I2C expander)
 - VDD: 3.3V (VCC), GND.
@@ -41,3 +42,4 @@
 
 ## Notes
 - ZMK config: enable `kscan-gpio-matrix` + MCP23017 driver + backlight PWM.
+- Schematic currently has placed symbols but wiring and net labels are still pending.
