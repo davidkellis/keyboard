@@ -30,8 +30,18 @@
    - External power switch placement.
    - Decision: reset/boot access onboard only.
    - Decision: edge-mounted slide switch.
+   - Decision: switch on the back edge.
 
-8) Begin design artifacts
+8) Confirm matrix I/O strategy
+   - Likely needs an I2C GPIO expander (MCP23017) to fit 87 keys.
+   - Decision: use MCP23017.
+   - Decision: I2C address 0x20 (A0-A2 tied to GND).
+   - Decision: row/column pin assignment set in hardware/matrix_plan.md.
+
+9) Begin design artifacts
    - Build ANSI TKL layout in KLE.
+     - Done: layout/ansi_tkl_device_keys.kle.json.
+   - Draft schematic plan for KiCad.
+     - Done: hardware/schematic_plan.md.
    - Import into KiCad, create schematic (matrix + diodes + nice!nano + power) and PCB.
    - Add BLE antenna keep-out and board outline for custom case.
