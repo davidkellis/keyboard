@@ -56,6 +56,7 @@
    - Add core components to schematic (nice!nano, MCP23017, power, backlight placeholders).
      - Done: kicad/tkl_low_profile.kicad_sch
    - Wire the schematic (rows/cols, I2C, power, backlight nets).
+     - Done: kicad/tkl_low_profile.kicad_sch
    - Add BLE antenna keep-out and board outline for custom case.
 
 
@@ -79,12 +80,11 @@
 
   Important note
 
-  - The new symbols are placed but not wired yet (no net labels or wires). The schematic is ready for wiring, then PCB update.
+  - The schematic is now wired (ROW/COL, I2C, power, backlight), so the next step is a PCB update.
 
   If you want me to continue, I can:
 
-  1. Wire the schematic (ROW/COL nets, I2C, power switch + battery, backlight MOSFET + LED rails).
-  2. Update the PCB from the schematic.
-  3. Place switch footprints using the KLE mapping and start routing.
+  1. Update the PCB from the schematic.
+  2. Place switch footprints using the KLE mapping and start routing.
 
-  Say “continue wiring” and I’ll move on to step 1.
+  Say “continue layout” and I’ll move on to step 1.

@@ -2927,7 +2927,7 @@
 
 (property "Value" "SW_Push" (at 29.21 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a311218e-9f00-4010-8cc8-ff74f0d3e6b5)) (pin "2" (uuid 857f6a11-f21f-4a7c-995c-2bdb51f4b597)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW1") (unit 1))))) 
 
@@ -2989,7 +2989,7 @@
 
 (property "Value" "SW_Push" (at 41.91 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid e9c2aa35-b40d-4b90-88f2-256b5f817094)) (pin "2" (uuid 2d45b3c6-7790-42fd-b771-bf22c76068c7)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW2") (unit 1))))) 
 
@@ -3043,7 +3043,7 @@
 
 (property "Value" "SW_Push" (at 54.61 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 36dde20b-ae16-4f0c-a10c-327104a77a9c)) (pin "2" (uuid 904f472e-0327-4925-8705-6eab9c7dcbb7)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW3") (unit 1))))) 
 
@@ -3097,7 +3097,7 @@
 
 (property "Value" "SW_Push" (at 67.31 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 67.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 9db1dc4f-3dc6-4180-9f5c-b4b5fa050d6d)) (pin "2" (uuid 5d205e51-0f1c-4d9a-b1d0-8b9c3ac665b1)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW4") (unit 1))))) 
 
@@ -3151,7 +3151,7 @@
 
 (property "Value" "SW_Push" (at 80.01 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 80.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a7b15adf-79e5-4cc9-be80-28f9341d67d5)) (pin "2" (uuid 5c4a1e75-20f9-494c-9aa9-f3d41490bed1)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW5") (unit 1))))) 
 
@@ -3205,7 +3205,7 @@
 
 (property "Value" "SW_Push" (at 92.71 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 92.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid d5187943-6ec9-4914-8d6d-f0ab6ff3ace9)) (pin "2" (uuid c7776500-a214-4b10-9a99-bb9472f49ded)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW6") (unit 1))))) 
 
@@ -3259,7 +3259,7 @@
 
 (property "Value" "SW_Push" (at 105.41 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 105.41 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 6147a7ee-43a1-4766-927f-232ee70bdedf)) (pin "2" (uuid 3c9c63ed-668e-45c4-92af-140dfa31f9ca)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW7") (unit 1))))) 
 
@@ -3313,7 +3313,7 @@
 
 (property "Value" "SW_Push" (at 118.11 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 118.11 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 4364de14-0394-43d7-958b-2f135af594b2)) (pin "2" (uuid 0222d787-d026-4681-983c-bdcc8bb0c6a2)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW8") (unit 1))))) 
 
@@ -3367,7 +3367,7 @@
 
 (property "Value" "SW_Push" (at 130.81 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 130.81 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 169c2aff-a963-4beb-a813-04c1c29bb6fd)) (pin "2" (uuid 8cb28547-9b2d-41c0-a053-09e40ed9e02e)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW9") (unit 1))))) 
 
@@ -3421,7 +3421,7 @@
 
 (property "Value" "SW_Push" (at 143.51 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 143.51 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 52ecf7be-3f80-43cd-95ed-46a4751603b0)) (pin "2" (uuid c61ed058-c084-4248-a397-d1937fafddb5)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW10") (unit 1))))) 
 
@@ -3475,7 +3475,7 @@
 
 (property "Value" "SW_Push" (at 156.21 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 156.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 2045bf5a-3cce-4413-ba7b-0f5ac714ef21)) (pin "2" (uuid 8341374c-aad8-4c9f-8ae0-dc078fbb370a)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW11") (unit 1))))) 
 
@@ -3529,7 +3529,7 @@
 
 (property "Value" "SW_Push" (at 168.91 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 168.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 168.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 168.91 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid db9004c7-39eb-49b5-98f2-15906ef6631d)) (pin "2" (uuid c8b0891f-0067-4778-b9ed-1fea7437b8a1)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW12") (unit 1))))) 
 
@@ -3583,7 +3583,7 @@
 
 (property "Value" "SW_Push" (at 181.61 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 181.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 181.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 181.61 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid e94ef3e8-ae5d-440b-a398-2c9968ad774f)) (pin "2" (uuid 76ee8d89-1ddf-42fa-b67c-411baf225a46)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW13") (unit 1))))) 
 
@@ -3637,7 +3637,7 @@
 
 (property "Value" "SW_Push" (at 194.31 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 194.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 194.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 194.31 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 21e7eafe-3156-446b-9356-688737eab5e8)) (pin "2" (uuid 2dd3439e-2b75-43f4-b453-58c301607020)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW14") (unit 1))))) 
 
@@ -3691,7 +3691,7 @@
 
 (property "Value" "SW_Push" (at 207.01 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 207.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 207.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 207.01 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid cc965271-4305-41c8-8dae-58f7e019a625)) (pin "2" (uuid ecca3c1e-bdd0-4eab-87bf-6c3046753635)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW15") (unit 1))))) 
 
@@ -3745,7 +3745,7 @@
 
 (property "Value" "SW_Push" (at 219.71 19.05 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 219.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 219.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 219.71 22.86 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 0eee5ee6-a8ae-45a7-ae39-16347d6c930f)) (pin "2" (uuid 1c5baee0-47d4-426c-bf11-52728c93719f)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW16") (unit 1))))) 
 
@@ -3799,7 +3799,7 @@
 
 (property "Value" "SW_Push" (at 29.21 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid d6d1e505-23da-4551-a380-a713d0ab52f6)) (pin "2" (uuid 08eca8b9-0e7b-497d-a66d-9e1b75c4badb)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW17") (unit 1))))) 
 
@@ -3853,7 +3853,7 @@
 
 (property "Value" "SW_Push" (at 41.91 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 498955bb-8713-49f7-986e-543d154f27c6)) (pin "2" (uuid 44544d6f-dacf-4716-9924-5601f3e988d4)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW18") (unit 1))))) 
 
@@ -3899,7 +3899,7 @@
 
 (property "Value" "SW_Push" (at 54.61 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 88908026-76fb-46f5-b4f0-91398a60d3e0)) (pin "2" (uuid 1d60762e-be59-40b0-99a7-826ad22e64e8)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW19") (unit 1))))) 
 
@@ -3945,7 +3945,7 @@
 
 (property "Value" "SW_Push" (at 67.31 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 67.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 9d3bc68d-e853-4bb5-b5a3-955c6a76edd1)) (pin "2" (uuid f86f357f-fad2-42b2-97ef-425076a0a600)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW20") (unit 1))))) 
 
@@ -3991,7 +3991,7 @@
 
 (property "Value" "SW_Push" (at 80.01 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 80.01 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 2550f58c-5f86-4826-93f8-5db7742e3ec5)) (pin "2" (uuid 59f98019-cb6f-48c8-a7f8-0d628337691a)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW21") (unit 1))))) 
 
@@ -4037,7 +4037,7 @@
 
 (property "Value" "SW_Push" (at 92.71 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 92.71 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 4a38e2cf-12b6-41bd-9fda-9d00f863519b)) (pin "2" (uuid 5baff404-458c-4e5b-810c-1d21f0d548ac)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW22") (unit 1))))) 
 
@@ -4083,7 +4083,7 @@
 
 (property "Value" "SW_Push" (at 105.41 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 105.41 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid f7b14f64-928c-489e-ad05-2bec6a987cc0)) (pin "2" (uuid 7f168275-151f-4e95-bee6-00df6913216f)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW23") (unit 1))))) 
 
@@ -4129,7 +4129,7 @@
 
 (property "Value" "SW_Push" (at 118.11 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 118.11 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid bb9809c8-c75c-4910-827e-b52834a3d4ee)) (pin "2" (uuid b8036b13-54cd-49c2-83bd-cb84437ec9a5)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW24") (unit 1))))) 
 
@@ -4175,7 +4175,7 @@
 
 (property "Value" "SW_Push" (at 130.81 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 130.81 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid e3d45e8a-5143-41ac-aa84-e6b671564091)) (pin "2" (uuid fc865f38-9e78-4de5-8a6c-6a4ed2623ab6)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW25") (unit 1))))) 
 
@@ -4221,7 +4221,7 @@
 
 (property "Value" "SW_Push" (at 143.51 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 143.51 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid fe04873e-19ef-4406-b88e-65cb08732e08)) (pin "2" (uuid 681ec3ff-0eb4-47b9-b184-5f3e89d68eb5)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW26") (unit 1))))) 
 
@@ -4267,7 +4267,7 @@
 
 (property "Value" "SW_Push" (at 156.21 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 156.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 6d03064d-5562-490c-8f94-2433585ed090)) (pin "2" (uuid 52a731cd-ffe4-4d37-8f3e-bbc73792f028)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW27") (unit 1))))) 
 
@@ -4313,7 +4313,7 @@
 
 (property "Value" "SW_Push" (at 168.91 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 168.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 168.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 168.91 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 4de4d2aa-aaf5-4e74-8388-6613e0030a55)) (pin "2" (uuid ad549ff0-f4eb-4e7c-abb4-4b2f56c25959)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW28") (unit 1))))) 
 
@@ -4359,7 +4359,7 @@
 
 (property "Value" "SW_Push" (at 181.61 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 181.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 181.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 181.61 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid b6047869-ff71-4c2c-b55d-ee050a3e1ade)) (pin "2" (uuid ea597cc9-6c2a-4901-ab3f-27bbbe760177)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW29") (unit 1))))) 
 
@@ -4405,7 +4405,7 @@
 
 (property "Value" "SW_Push" (at 194.31 39.37 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 194.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2U" (at 194.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 194.31 43.18 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 31dc1621-e364-407a-84c5-24e06d739075)) (pin "2" (uuid ca3cd428-10c2-41b6-8575-36d2fc98cfab)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW30") (unit 1))))) 
 
@@ -4451,7 +4451,7 @@
 
 (property "Value" "SW_Push" (at 29.21 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a3f42f96-96da-4783-9943-fb5649489357)) (pin "2" (uuid 1bce5adb-2c35-42a1-b919-026c1fccff09)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW31") (unit 1))))) 
 
@@ -4505,7 +4505,7 @@
 
 (property "Value" "SW_Push" (at 41.91 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 79b55cdc-bf6d-4807-ad25-e2c455237d8b)) (pin "2" (uuid 57872256-a461-4118-afff-a79716b19a16)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW32") (unit 1))))) 
 
@@ -4551,7 +4551,7 @@
 
 (property "Value" "SW_Push" (at 54.61 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 24483154-b911-4204-9a10-f6f2a837aa8c)) (pin "2" (uuid c901b855-7220-48eb-abcd-43043e8363ba)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW33") (unit 1))))) 
 
@@ -4597,7 +4597,7 @@
 
 (property "Value" "SW_Push" (at 67.31 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U" (at 67.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid feee6f85-8527-4799-b6aa-fb53114b3e1e)) (pin "2" (uuid e6f4c143-9749-4557-ad74-4924f9ded97b)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW34") (unit 1))))) 
 
@@ -4643,7 +4643,7 @@
 
 (property "Value" "SW_Push" (at 80.01 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 80.01 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 71df26d2-9b65-40d6-9cb3-91916894de2b)) (pin "2" (uuid 935ded39-5c31-45ae-b04c-62713dcf465c)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW35") (unit 1))))) 
 
@@ -4689,7 +4689,7 @@
 
 (property "Value" "SW_Push" (at 92.71 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 92.71 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 7a7dd181-84ba-4241-81f2-ed5a2b1ea829)) (pin "2" (uuid 3603f0bc-970b-4d0b-88f0-15ce0d37ee38)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW36") (unit 1))))) 
 
@@ -4735,7 +4735,7 @@
 
 (property "Value" "SW_Push" (at 105.41 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 105.41 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 7c2ab59f-9d54-4150-bf5b-4cd16d8a6a15)) (pin "2" (uuid b6c2d118-6d71-419e-bdc4-2bc805e1b17d)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW37") (unit 1))))) 
 
@@ -4781,7 +4781,7 @@
 
 (property "Value" "SW_Push" (at 118.11 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 118.11 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid acc14b52-9322-4479-8d8a-d0680c642bae)) (pin "2" (uuid 29f6e5b6-01df-47e2-8662-430ab187480e)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW38") (unit 1))))) 
 
@@ -4827,7 +4827,7 @@
 
 (property "Value" "SW_Push" (at 130.81 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 130.81 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 43dc8177-3d21-46a0-9d66-145415dec251)) (pin "2" (uuid a38b802c-1e65-4092-9875-6f8d92ce23d0)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW39") (unit 1))))) 
 
@@ -4873,7 +4873,7 @@
 
 (property "Value" "SW_Push" (at 143.51 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 143.51 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 3a78e294-88bd-432b-8c8e-5d070349aa67)) (pin "2" (uuid b553899e-a1b1-4abc-b571-ac9017b5a4f6)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW40") (unit 1))))) 
 
@@ -4919,7 +4919,7 @@
 
 (property "Value" "SW_Push" (at 156.21 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 156.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a271aadb-55c4-4411-ba49-79d2725c8486)) (pin "2" (uuid 33bc6907-20f5-450f-a9f0-6bc0d83b6888)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW41") (unit 1))))) 
 
@@ -4965,7 +4965,7 @@
 
 (property "Value" "SW_Push" (at 168.91 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 168.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 168.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 168.91 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 7daac5a9-68c4-42bf-a44b-536bd0ef498c)) (pin "2" (uuid 84694732-5e7d-4ed3-ac52-603887aa56cb)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW42") (unit 1))))) 
 
@@ -5011,7 +5011,7 @@
 
 (property "Value" "SW_Push" (at 181.61 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 181.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 181.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 181.61 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid cf3d62d0-f096-4bbb-9375-812735c1ae5a)) (pin "2" (uuid df6dba14-7247-4924-9138-5ac578fddaa8)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW43") (unit 1))))) 
 
@@ -5057,7 +5057,7 @@
 
 (property "Value" "SW_Push" (at 194.31 59.69 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 194.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 194.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 194.31 63.5 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 018ad250-a3c9-41d7-9d3a-c5ceb3575226)) (pin "2" (uuid 468e3de5-088b-41bd-9af7-97ab6726d0c0)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW44") (unit 1))))) 
 
@@ -5103,7 +5103,7 @@
 
 (property "Value" "SW_Push" (at 29.21 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid ce6d958c-3b65-4292-8ad2-7ecf220a97b8)) (pin "2" (uuid 14c0d9b4-02d2-40ff-ace5-7323996e9cbb)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW45") (unit 1))))) 
 
@@ -5157,7 +5157,7 @@
 
 (property "Value" "SW_Push" (at 41.91 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 33e7547a-25b7-4c18-a1bd-b6eb20800c1f)) (pin "2" (uuid a10f6966-8de4-48da-88e3-bbdcba2f7ccf)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW46") (unit 1))))) 
 
@@ -5203,7 +5203,7 @@
 
 (property "Value" "SW_Push" (at 54.61 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U" (at 54.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid c92039f9-ad76-487a-8167-a434baf21ed1)) (pin "2" (uuid 2dbba249-e5c3-4efb-a06d-a3a232136ae8)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW47") (unit 1))))) 
 
@@ -5249,7 +5249,7 @@
 
 (property "Value" "SW_Push" (at 67.31 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 67.31 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 2126b8c1-cf31-4833-8723-31377f68c508)) (pin "2" (uuid 75214a8a-4ada-465e-a6eb-1af86238cff1)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW48") (unit 1))))) 
 
@@ -5295,7 +5295,7 @@
 
 (property "Value" "SW_Push" (at 80.01 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 80.01 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 61e02661-401a-4f01-9836-13c13f1d8294)) (pin "2" (uuid c0837179-d764-412b-97ea-e26084e3cfe4)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW49") (unit 1))))) 
 
@@ -5341,7 +5341,7 @@
 
 (property "Value" "SW_Push" (at 92.71 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 92.71 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid c918903c-e703-4012-87ba-f9b7556d0832)) (pin "2" (uuid 55fb4447-500c-4e8a-9b0c-87e156db951f)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW50") (unit 1))))) 
 
@@ -5387,7 +5387,7 @@
 
 (property "Value" "SW_Push" (at 105.41 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.75U" (at 105.41 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 6f7bdf0b-864a-465b-9a8b-3b67bc4c4cbd)) (pin "2" (uuid 3f128fd5-4b74-4747-8e02-bc4321a435bb)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW51") (unit 1))))) 
 
@@ -5433,7 +5433,7 @@
 
 (property "Value" "SW_Push" (at 118.11 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 118.11 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 904ce3e0-111b-448c-8549-32a7602c39f4)) (pin "2" (uuid 61fd0c3e-17cb-4a53-bb46-b1cb4d74b93e)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW52") (unit 1))))) 
 
@@ -5479,7 +5479,7 @@
 
 (property "Value" "SW_Push" (at 130.81 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 130.81 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid ba1396c7-b1b5-4633-b504-af985b779b0c)) (pin "2" (uuid 3cc0cd41-0f90-4aed-83bc-20ecee953198)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW53") (unit 1))))) 
 
@@ -5525,7 +5525,7 @@
 
 (property "Value" "SW_Push" (at 143.51 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 143.51 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid f9cdea6d-1e1f-4825-ad7b-1aad85bfcbe5)) (pin "2" (uuid 963fa48d-c78d-4324-8928-6e4d6e657e1f)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW54") (unit 1))))) 
 
@@ -5571,7 +5571,7 @@
 
 (property "Value" "SW_Push" (at 156.21 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 156.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid b15837cc-7882-412b-a86b-26774df2fdac)) (pin "2" (uuid 406b33ed-ad05-4154-a480-d1e772525f32)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW55") (unit 1))))) 
 
@@ -5617,7 +5617,7 @@
 
 (property "Value" "SW_Push" (at 168.91 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 168.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 168.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 168.91 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 86e8458e-eeea-43b5-adbf-d572bee350c8)) (pin "2" (uuid c16b6d00-1cf4-4dc4-a870-258dcd3893f6)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW56") (unit 1))))) 
 
@@ -5663,7 +5663,7 @@
 
 (property "Value" "SW_Push" (at 181.61 80.01 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 181.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 181.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 181.61 83.82 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid ea370b3b-c247-494a-ab00-f6b36750aa0b)) (pin "2" (uuid 1f22a41d-fd1c-48be-b16f-5afb16a02221)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW57") (unit 1))))) 
 
@@ -5709,7 +5709,7 @@
 
 (property "Value" "SW_Push" (at 29.21 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid e066a128-441c-4271-940e-3012101ff4da)) (pin "2" (uuid 8d56c322-0b4b-41aa-ac7d-b90d44758cbb)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW58") (unit 1))))) 
 
@@ -5763,7 +5763,7 @@
 
 (property "Value" "SW_Push" (at 41.91 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid c5c3fd5a-ad7b-40bf-a79d-dd78abe995b1)) (pin "2" (uuid 456ccbc6-0e73-4814-b1ba-c4344d141e18)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW59") (unit 1))))) 
 
@@ -5809,7 +5809,7 @@
 
 (property "Value" "SW_Push" (at 54.61 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid c68e3db6-b857-478f-87f9-ac421ea3cc6e)) (pin "2" (uuid e895348a-f976-41a3-be50-3d486d3efb63)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW60") (unit 1))))) 
 
@@ -5855,7 +5855,7 @@
 
 (property "Value" "SW_Push" (at 67.31 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 67.31 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 92dcbf4a-fe2c-4812-be44-730a69a5e6ac)) (pin "2" (uuid 57efc60e-a175-4502-8014-c24f9ff4a473)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW61") (unit 1))))) 
 
@@ -5901,7 +5901,7 @@
 
 (property "Value" "SW_Push" (at 80.01 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 80.01 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 3bfa2a34-7406-43e3-a409-11cb436c0fe4)) (pin "2" (uuid 490748da-2777-420b-a79f-732d3cd5eae2)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW62") (unit 1))))) 
 
@@ -5947,7 +5947,7 @@
 
 (property "Value" "SW_Push" (at 92.71 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U" (at 92.71 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid d77f6bf6-1497-4fd6-a27b-99a1fc908f35)) (pin "2" (uuid ed81f7ed-4141-4473-a5bc-f3f4eff13b7a)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW63") (unit 1))))) 
 
@@ -5993,7 +5993,7 @@
 
 (property "Value" "SW_Push" (at 105.41 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U" (at 105.41 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid cc45ad1e-2d55-49f7-9268-3a5f73168abf)) (pin "2" (uuid bdc7f914-068d-45af-b45b-f762bad737d4)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW64") (unit 1))))) 
 
@@ -6039,7 +6039,7 @@
 
 (property "Value" "SW_Push" (at 118.11 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 118.11 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 3360d7df-03fe-4138-b040-ef298859ae8e)) (pin "2" (uuid 3135ea2f-4134-4753-9d27-b89746bf7a24)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW65") (unit 1))))) 
 
@@ -6085,7 +6085,7 @@
 
 (property "Value" "SW_Push" (at 130.81 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 130.81 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 40f45fe4-3f56-4104-9cbe-ec44ef02c395)) (pin "2" (uuid df34d927-8918-422e-bc14-3e912d84c399)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW66") (unit 1))))) 
 
@@ -6131,7 +6131,7 @@
 
 (property "Value" "SW_Push" (at 143.51 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 143.51 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 27f82b3f-c229-406e-9eec-108d0be01b3b)) (pin "2" (uuid 988ff109-79f1-4750-be80-5dce5e42531a)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW67") (unit 1))))) 
 
@@ -6177,7 +6177,7 @@
 
 (property "Value" "SW_Push" (at 156.21 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 156.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 99a1e99f-c8ef-4c96-aa0d-2576fe9b23dd)) (pin "2" (uuid b75e80c6-d875-462e-9616-2608951bbb73)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW68") (unit 1))))) 
 
@@ -6223,7 +6223,7 @@
 
 (property "Value" "SW_Push" (at 168.91 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 168.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 168.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 168.91 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 404ab957-4f85-422d-b06d-9dc554d6e595)) (pin "2" (uuid 09764dc1-c767-4c9a-8bae-02b442ae1980)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW69") (unit 1))))) 
 
@@ -6269,7 +6269,7 @@
 
 (property "Value" "SW_Push" (at 181.61 100.33 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 181.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 181.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 181.61 104.14 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 9865dcae-b46b-414b-852d-8c2571203ce0)) (pin "2" (uuid 4e2fd42d-41c6-457a-a111-ca1f2a5bcbae)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW70") (unit 1))))) 
 
@@ -6315,7 +6315,7 @@
 
 (property "Value" "SW_Push" (at 29.21 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 6f552ff0-1d41-46d5-a7c5-6e7b6d24d9ef)) (pin "2" (uuid 48ff7425-416a-445d-b621-25157baa5061)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW71") (unit 1))))) 
 
@@ -6369,7 +6369,7 @@
 
 (property "Value" "SW_Push" (at 41.91 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 323a920e-4610-477b-8547-70c476a47434)) (pin "2" (uuid 933a85f9-0ffb-4174-b37b-7f7c5f331c12)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW72") (unit 1))))) 
 
@@ -6415,7 +6415,7 @@
 
 (property "Value" "SW_Push" (at 54.61 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 065c9706-32e1-4792-8320-930c0b2d2a6c)) (pin "2" (uuid 0c859aeb-5089-403e-815a-4cdf5ea58e80)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW73") (unit 1))))) 
 
@@ -6461,7 +6461,7 @@
 
 (property "Value" "SW_Push" (at 67.31 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 67.31 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 67.31 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 67.31 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 68c84139-4234-4aa8-8703-2098c07c54b6)) (pin "2" (uuid da220500-7c6e-485b-9b03-8ed7faad545f)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW74") (unit 1))))) 
 
@@ -6507,7 +6507,7 @@
 
 (property "Value" "SW_Push" (at 80.01 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 80.01 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.75U" (at 80.01 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 80.01 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 295d2e22-1457-4ea2-a321-372d0f3f24db)) (pin "2" (uuid 447b1092-4ed0-48ee-bb08-ee722dee5804)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW75") (unit 1))))) 
 
@@ -6553,7 +6553,7 @@
 
 (property "Value" "SW_Push" (at 92.71 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 92.71 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 92.71 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 92.71 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a6fc601f-8fee-4502-b2f8-4d7bd257b300)) (pin "2" (uuid dda466b3-9b4d-4fe7-9595-92fafac9b9ef)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW76") (unit 1))))) 
 
@@ -6599,7 +6599,7 @@
 
 (property "Value" "SW_Push" (at 105.41 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 105.41 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 105.41 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 105.41 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 9ff4176a-c76c-43cb-be2e-e600c0678349)) (pin "2" (uuid 23ac672c-010a-4798-86c3-4ae4e6eacce0)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW77") (unit 1))))) 
 
@@ -6645,7 +6645,7 @@
 
 (property "Value" "SW_Push" (at 118.11 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 118.11 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 118.11 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 118.11 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 1c4b549c-db81-493b-ac08-b57e6414b92e)) (pin "2" (uuid 3a94f054-928d-4f7d-b305-e0d23eafcef4)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW78") (unit 1))))) 
 
@@ -6691,7 +6691,7 @@
 
 (property "Value" "SW_Push" (at 130.81 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 130.81 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 130.81 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 130.81 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 177de9ff-5172-42b7-918d-550d980d1cc5)) (pin "2" (uuid b5210fb1-c752-4337-b957-c7115054cadf)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW79") (unit 1))))) 
 
@@ -6737,7 +6737,7 @@
 
 (property "Value" "SW_Push" (at 143.51 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 143.51 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-6.25U" (at 143.51 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 143.51 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid f66f07c1-58ac-4c68-a3a9-e1e8dc45742a)) (pin "2" (uuid 74dc8fd0-8584-4824-a8fc-43d3ace9f521)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW80") (unit 1))))) 
 
@@ -6783,7 +6783,7 @@
 
 (property "Value" "SW_Push" (at 156.21 120.65 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 156.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 156.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 156.21 124.46 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 9e4e3c17-bdcb-49e5-bc47-a25cd8ad142a)) (pin "2" (uuid 17a6fc75-9750-4b31-b8da-cf52859c9300)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW81") (unit 1))))) 
 
@@ -6829,7 +6829,7 @@
 
 (property "Value" "SW_Push" (at 29.21 140.97 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 29.21 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 144.78 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 1760165c-b4c9-4590-ac4b-df92fa0797e0)) (pin "2" (uuid a091a3c3-017f-4e5b-82ae-d7258289b357)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW82") (unit 1))))) 
 
@@ -6883,7 +6883,7 @@
 
 (property "Value" "SW_Push" (at 41.91 140.97 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 41.91 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 144.78 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 0923a3fe-5406-4377-b1b7-a26144af7c1f)) (pin "2" (uuid d0ced32a-0b04-4568-9941-e30beeb9f7cc)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW83") (unit 1))))) 
 
@@ -6929,7 +6929,7 @@
 
 (property "Value" "SW_Push" (at 54.61 140.97 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U" (at 54.61 144.78 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 144.78 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid b2330fce-5f1c-465f-ada5-03d4b767a0a3)) (pin "2" (uuid 672490a9-ac79-4b3e-aa14-1c13be3c3571)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW84") (unit 1))))) 
 
@@ -6975,7 +6975,7 @@
 
 (property "Value" "SW_Push" (at 29.21 161.29 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 29.21 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 29.21 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 29.21 165.1 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 5496a61f-2034-45af-95fc-7905d3c05b6e)) (pin "2" (uuid 90ceae59-14a6-433d-a1a6-3f48b5c47ac3)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW85") (unit 1))))) 
 
@@ -7029,7 +7029,7 @@
 
 (property "Value" "SW_Push" (at 41.91 161.29 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 41.91 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 41.91 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 41.91 165.1 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid a5824c14-99c4-46dd-8cd5-9504bba91e3f)) (pin "2" (uuid 8f825a51-947d-492f-8d59-507bef17248a)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW86") (unit 1))))) 
 
@@ -7075,7 +7075,7 @@
 
 (property "Value" "SW_Push" (at 54.61 161.29 0) (effects (font (size 1.27 1.27)) hide)) 
 
-(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V2" (at 54.61 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
+(property "Footprint" "MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U" (at 54.61 165.1 0) (effects (font (size 1.27 1.27)) hide)) 
 
 (property "Datasheet" "~" (at 54.61 165.1 0) (effects (font (size 1.27 1.27)) hide)) (pin "1" (uuid 93e22f88-372b-4d51-aa58-6a3b68fed896)) (pin "2" (uuid 3d81492b-f2dd-4800-95a6-575c951a234b)) (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "SW87") (unit 1))))) 
 
@@ -7113,4 +7113,251 @@
 
 (xy 57.15 177.8)) (stroke (width 0) (type default)) (uuid e28d0209-d9e9-4c90-93cb-bcf955315f36)) 
 
-(junction (at 57.15 177.8) (diameter 0) (color 0 0 0 0) (uuid 3300a7dd-27de-4429-8005-857d46b08429)))
+(junction (at 57.15 177.8) (diameter 0) (color 0 0 0 0) (uuid 3300a7dd-27de-4429-8005-857d46b08429))
+
+(wire (pts (xy 386.06 22.86) (xy 390.25 22.86)) (stroke (width 0) (type default)) (uuid ff71049b-864d-4f63-8804-447d940f6680))
+
+(wire (pts (xy 390.25 22.86) (xy 390.25 19.05)) (stroke (width 0) (type default)) (uuid f323efc5-5f93-4636-b776-65d925838a60))
+
+(wire (pts (xy 406.06 22.86) (xy 410.25 22.86)) (stroke (width 0) (type default)) (uuid cb717536-c47f-4f00-9599-b8503c895945))
+
+(wire (pts (xy 410.25 22.86) (xy 410.25 19.05)) (stroke (width 0) (type default)) (uuid 51987ca9-239e-4c79-a26c-29d85c78794b))
+
+(wire (pts (xy 426.06 22.86) (xy 430.25 22.86)) (stroke (width 0) (type default)) (uuid bd73a672-4487-45a3-8166-13bbb3bf695c))
+
+(wire (pts (xy 430.25 22.86) (xy 430.25 19.05)) (stroke (width 0) (type default)) (uuid f8cc91ac-9840-400e-9c5b-d88e4b011ef7))
+
+(wire (pts (xy 446.06 22.86) (xy 450.25 22.86)) (stroke (width 0) (type default)) (uuid a6d2e142-b35e-4f3d-9659-3f2b14158b22))
+
+(wire (pts (xy 450.25 22.86) (xy 450.25 19.05)) (stroke (width 0) (type default)) (uuid 37a84240-1a2e-4569-b175-74d5242fbe48))
+
+(wire (pts (xy 386.06 35.56) (xy 390.25 35.56)) (stroke (width 0) (type default)) (uuid 9919a764-2e9e-4789-a1d2-79d12685e6e4))
+
+(wire (pts (xy 390.25 35.56) (xy 390.25 31.75)) (stroke (width 0) (type default)) (uuid 4c1547c1-d348-4438-bf73-2abffa6feeda))
+
+(wire (pts (xy 406.06 35.56) (xy 410.25 35.56)) (stroke (width 0) (type default)) (uuid dff8fe29-77f8-4a78-a01b-f4b97d40c106))
+
+(wire (pts (xy 410.25 35.56) (xy 410.25 31.75)) (stroke (width 0) (type default)) (uuid 17514ff3-76c9-4632-9bae-6975ba1db47a))
+
+(wire (pts (xy 426.06 35.56) (xy 430.25 35.56)) (stroke (width 0) (type default)) (uuid 0a011088-0ef0-46a2-88b7-f057b89c909d))
+
+(wire (pts (xy 430.25 35.56) (xy 430.25 31.75)) (stroke (width 0) (type default)) (uuid 9f6048ff-7863-4954-ad74-12d0ce9ff5d8))
+
+(wire (pts (xy 446.06 35.56) (xy 450.25 35.56)) (stroke (width 0) (type default)) (uuid bd996fb2-6736-4648-a952-ca83e3b2c4d2))
+
+(wire (pts (xy 450.25 35.56) (xy 450.25 31.75)) (stroke (width 0) (type default)) (uuid 9e4113df-e8a8-419b-ae4a-c7adad58d1ae))
+
+(wire (pts (xy 386.06 48.26) (xy 390.25 48.26)) (stroke (width 0) (type default)) (uuid c598c2ea-c749-474e-87a9-4747c4064004))
+
+(wire (pts (xy 390.25 48.26) (xy 390.25 44.45)) (stroke (width 0) (type default)) (uuid 4a7200e8-5484-40f9-bab0-6a99cd6a20e0))
+
+(wire (pts (xy 406.06 48.26) (xy 410.25 48.26)) (stroke (width 0) (type default)) (uuid 616ab06f-c7da-4868-b902-358f97d4718d))
+
+(wire (pts (xy 410.25 48.26) (xy 410.25 44.45)) (stroke (width 0) (type default)) (uuid 61e61e63-a451-48eb-b040-b53a21d85ba6))
+
+(wire (pts (xy 426.06 48.26) (xy 430.25 48.26)) (stroke (width 0) (type default)) (uuid a8b25056-fa5c-4ec1-8242-d506f650cc02))
+
+(wire (pts (xy 430.25 48.26) (xy 430.25 44.45)) (stroke (width 0) (type default)) (uuid aefc246e-5106-422d-ab07-56beb0ec37c8))
+
+(wire (pts (xy 446.06 48.26) (xy 450.25 48.26)) (stroke (width 0) (type default)) (uuid eb97aed2-631f-4411-a4c4-d2b4943207f1))
+
+(wire (pts (xy 450.25 48.26) (xy 450.25 44.45)) (stroke (width 0) (type default)) (uuid 7e83eeeb-9e0f-4bfe-b87c-45a003ff0794))
+
+(wire (pts (xy 386.06 60.96) (xy 390.25 60.96)) (stroke (width 0) (type default)) (uuid 9fec2254-33f5-4833-8f12-4461241afddf))
+
+(wire (pts (xy 390.25 60.96) (xy 390.25 57.15)) (stroke (width 0) (type default)) (uuid b178a947-fdf5-4d20-9f95-b70ebb409da7))
+
+(wire (pts (xy 406.06 60.96) (xy 410.25 60.96)) (stroke (width 0) (type default)) (uuid 4897763d-8ccc-4606-a41f-864f47a1e8a8))
+
+(wire (pts (xy 410.25 60.96) (xy 410.25 57.15)) (stroke (width 0) (type default)) (uuid 53948b18-1aae-4d5e-ab7b-ca7c97d3cadf))
+
+(wire (pts (xy 426.06 60.96) (xy 430.25 60.96)) (stroke (width 0) (type default)) (uuid 55357a1e-c721-4cfd-b196-20d67415ceea))
+
+(wire (pts (xy 430.25 60.96) (xy 430.25 57.15)) (stroke (width 0) (type default)) (uuid 0b332172-fd69-4339-9ed0-00dde482d225))
+
+(wire (pts (xy 446.06 60.96) (xy 450.25 60.96)) (stroke (width 0) (type default)) (uuid a9cce3e0-fb46-4003-b19b-5ac439264703))
+
+(wire (pts (xy 450.25 60.96) (xy 450.25 57.15)) (stroke (width 0) (type default)) (uuid 17484acd-25a7-4f4f-b881-73443637a3aa))
+
+(label "ROW0" (at 247.01 97.79 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7e7eab7c-1d00-4344-84ed-91eefeda452e))
+
+(label "ROW1" (at 247.01 95.25 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 4f50f409-4a51-4932-b7f2-b03a9d0faf40))
+
+(label "ROW2" (at 247.01 92.71 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 518ae5a3-753f-4add-b5ba-e47e3bc0158d))
+
+(label "ROW3" (at 247.01 90.17 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 331d4ff7-6dda-4c0f-84fe-4327029dbe28))
+
+(label "ROW4" (at 247.01 87.63 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c5ed3458-cb47-4bb1-9f30-292732b62455))
+
+(label "ROW5" (at 247.01 85.09 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 8ee78601-36e6-4e65-8ff6-a7e7eece3304))
+
+(label "ROW6" (at 277.49 87.63 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 9094aed8-b223-484c-a96d-ee2d00717c1f))
+
+(label "ROW7" (at 277.49 90.17 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7b448046-1dad-4de6-802e-9c4e62238f02))
+
+(label "SDA" (at 247.01 102.87 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid e6ced2f4-3214-4a8b-9601-800daa3c8a0c))
+
+(label "SCL" (at 247.01 100.33 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid cd8fc35c-6f6c-4e42-b0da-7a875e379a32))
+
+(label "BL_PWM" (at 277.49 85.09 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c31aebf7-bfd8-4f16-b7b9-27d63ecbcdaa))
+
+(label "+3V3" (at 277.49 105.41 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 746e558b-33ce-4c15-b12e-9e2beaffd8e3))
+
+(label "GND" (at 247.01 107.95 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid babdad41-430d-492a-9044-8a2718cd98d0))
+
+(label "GND" (at 247.01 105.41 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 3069af16-163a-4359-bc6e-b16533610788))
+
+(label "GND" (at 277.49 110.49 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 5f563a3b-28c1-4322-81bd-5138fee8fcc0))
+
+(label "VBAT" (at 277.49 113.03 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c81b25b0-a370-40e7-b66d-93adf19eb996))
+
+(label "SDA" (at 324.47 43.18 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid cf9728e1-c69b-404a-854c-c700866d8915))
+
+(label "SCL" (at 324.47 40.64 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7d6899b2-c385-48b9-8383-b45559abd4ed))
+
+(label "MCP_RESET" (at 324.47 20.32 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 6598347f-8062-4fbe-ba3c-40e06e105a57))
+
+(label "+3V3" (at 342.25 50.80 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 1c77a908-27ab-4057-8958-0201c1762c0e))
+
+(label "GND" (at 342.25 -5.08 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 206f368e-23f4-44c3-af00-019230929f53))
+
+(label "GND" (at 324.47 2.54 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid ddbcc267-d3d5-406d-89df-a015695f7f11))
+
+(label "GND" (at 324.47 5.08 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid ab690766-c532-4835-abea-170c6a60c3e6))
+
+(label "GND" (at 324.47 7.62 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid a75d3bf5-38fb-4dea-9ba7-2671fa1f8b3a))
+
+(label "COL8" (at 360.03 43.18 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 8721cd01-ddb5-47ec-87ba-9fa03a4033b1))
+
+(label "COL9" (at 360.03 40.64 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 3a06a1e5-229b-48ac-96ff-ca8cf24b7d5e))
+
+(label "COL10" (at 360.03 38.10 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 79464c46-e2a0-40fa-b29d-11a8f744cf1f))
+
+(label "COL11" (at 360.03 35.56 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 4c4cabaa-1bb7-48bf-969a-0de67b5d5fe9))
+
+(label "COL12" (at 360.03 33.02 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 24b804f8-def5-405a-82ef-997d62382788))
+
+(label "COL13" (at 360.03 30.48 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 388b08b1-7036-4608-9a9e-cd9449a07f5c))
+
+(label "COL14" (at 360.03 27.94 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 1ad73aad-48c3-4d06-9031-864523fb3d31))
+
+(label "COL15" (at 360.03 25.40 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 6c91a00d-ca4e-4d3c-b08e-b156e223e6a1))
+
+(label "COL0" (at 360.03 20.32 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid b3c32979-7cd4-449a-8da4-a356127d89fb))
+
+(label "COL1" (at 360.03 17.78 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid ac6ff16b-4e07-4fdf-b45d-da74ca49e39e))
+
+(label "COL2" (at 360.03 15.24 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 0c9a7ade-7455-4ca0-883e-5742f3b4d2b6))
+
+(label "COL3" (at 360.03 12.70 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid cfab3a24-89d0-4d84-a0f3-ba7426b301b2))
+
+(label "COL4" (at 360.03 10.16 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid f3d4cb70-da3a-40b6-aaa8-33c95d039712))
+
+(label "COL5" (at 360.03 7.62 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 1bc520fe-c052-4f43-b5be-0e28bf3f94d8))
+
+(label "COL6" (at 360.03 5.08 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 59cd3bdb-eba3-4ecc-8dc9-0b87db00f7e6))
+
+(label "COL7" (at 360.03 2.54 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 17ae4f0c-f88c-46a4-8212-e37e3c1c0a53))
+
+(label "+3V3" (at 302.25 26.67 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 9474c70f-5161-4106-b92b-b82915fe9f80))
+
+(label "SDA" (at 302.25 19.05 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 49846e1e-937b-49f9-bf78-0e0f4090ca2f))
+
+(label "+3V3" (at 302.25 39.37 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid aa2b3e40-b797-4b15-875d-5ac818451cf1))
+
+(label "SCL" (at 302.25 31.75 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 92690b46-ba94-405c-9962-b59b9838623d))
+
+(label "+3V3" (at 302.25 52.07 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 68888daf-31a7-452c-943e-1f96f9e4bd99))
+
+(label "MCP_RESET" (at 302.25 44.45 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 87aaa542-4f4c-49df-aa5e-869e3ce7a305))
+
+(label "+3V3" (at 302.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 44298642-4ecf-4b86-b6ef-5d10f473c403))
+
+(label "GND" (at 302.25 57.15 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid f6e7adc2-67ab-4d7d-8d4b-0b76a3d1fb2b))
+
+(label "BL_PWM" (at 317.25 90.17 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 3f0480d1-d3b6-4bac-ac3b-6566e3e2d709))
+
+(label "BL_GATE" (at 317.25 82.55 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 486e4458-8a23-4ccd-97c6-c91f062d3ed7))
+
+(label "BL_GATE" (at 297.17 86.36 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 8719776f-7496-4a80-a055-adf499395514))
+
+(label "BL_GATE" (at 317.25 95.25 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 04da094d-5876-469a-b0e1-73405402f8b6))
+
+(label "GND" (at 317.25 102.87 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 644d70ff-cabe-4768-8f8b-69b6a923825f))
+
+(label "BL_NEG" (at 304.79 91.44 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7aef9870-b5a7-4eae-919a-883fe0361cdf))
+
+(label "GND" (at 304.79 81.28 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 436561bc-df9a-4f6a-ba9b-90bdb98d82d5))
+
+(label "VBAT_RAW" (at 277.17 175.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 4ed51601-cce6-4acb-a38e-bbe902219bd1))
+
+(label "GND" (at 277.17 172.72 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 1c7ac1ee-bc19-4e60-8cd6-9caac19f3c19))
+
+(label "VBAT_RAW" (at 267.33 177.80 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c94727f0-2570-4c88-81bb-acf37946076d))
+
+(label "VBAT" (at 257.17 175.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid bb8d8114-cd9b-4cba-b1ad-023d1d5209e1))
+
+(label "BL_NEG" (at 378.44 22.86 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c272b934-7b16-4c95-8ca5-81a84914eaa4))
+
+(label "+3V3" (at 390.25 26.67 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 800b251d-9fbe-4636-9149-c58489dc736a))
+
+(label "BL_NEG" (at 398.44 22.86 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid a6985fa5-f578-48c3-84a4-d562066aa35f))
+
+(label "+3V3" (at 410.25 26.67 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 9564446a-bfe0-4d9a-8d6d-cc9edca2cf02))
+
+(label "BL_NEG" (at 418.44 22.86 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid fd9a86ba-3fe0-405d-9913-78274c7f384d))
+
+(label "+3V3" (at 430.25 26.67 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 36800418-93af-4f6e-9670-09daf97b5dbe))
+
+(label "BL_NEG" (at 438.44 22.86 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 9c47ff84-2262-4d68-a352-212f0f727023))
+
+(label "+3V3" (at 450.25 26.67 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid c6cb1d53-64e7-4594-ae80-29848f835bc0))
+
+(label "BL_NEG" (at 378.44 35.56 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7e9336ae-6120-449b-a1ce-57a1fe8c6c1b))
+
+(label "+3V3" (at 390.25 39.37 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 49d741b1-2934-4b83-8482-c28c0ee46c8f))
+
+(label "BL_NEG" (at 398.44 35.56 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 155cf4c3-a9e1-4b70-afe9-f215594087c8))
+
+(label "+3V3" (at 410.25 39.37 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid bac208dc-d27e-4701-b756-f83b6551bf2b))
+
+(label "BL_NEG" (at 418.44 35.56 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 157d6813-e673-479c-ab04-2989c0f48528))
+
+(label "+3V3" (at 430.25 39.37 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 4fbf24db-81d6-40f7-b2df-ac872c38af39))
+
+(label "BL_NEG" (at 438.44 35.56 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 5c3301f2-dd14-499f-a263-7b3241fc9099))
+
+(label "+3V3" (at 450.25 39.37 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 0f8814d4-431f-4e0c-a375-6eeec5c3c3cd))
+
+(label "BL_NEG" (at 378.44 48.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid e27bf70e-dab2-4f43-8d62-a9e0e055f99a))
+
+(label "+3V3" (at 390.25 52.07 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 6a48265f-ff15-458c-b9ca-504fac01b0ef))
+
+(label "BL_NEG" (at 398.44 48.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 0bad94fe-daf5-42a0-a3e3-b046e1b19759))
+
+(label "+3V3" (at 410.25 52.07 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 687872db-cab6-4910-88bd-98e9645e2323))
+
+(label "BL_NEG" (at 418.44 48.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid e3bc260f-ab56-4451-bb45-fa7306e96ffb))
+
+(label "+3V3" (at 430.25 52.07 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 6fa05a26-fdcd-4441-9afb-e3043774ce09))
+
+(label "BL_NEG" (at 438.44 48.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 53f15979-0983-4515-a816-27c26938185c))
+
+(label "+3V3" (at 450.25 52.07 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 9c46b380-84a2-4661-b97d-2b5f024bc95a))
+
+(label "BL_NEG" (at 378.44 60.96 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid b93aaf24-dcfe-4dea-af58-207c9020b053))
+
+(label "+3V3" (at 390.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 3fa8d395-29f5-49e1-a539-fc634694e42f))
+
+(label "BL_NEG" (at 398.44 60.96 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 0ea8e918-8cb8-4f43-ae27-36494b5910e9))
+
+(label "+3V3" (at 410.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 4d533144-8089-4b7c-96b1-2c70f47bfb4a))
+
+(label "BL_NEG" (at 418.44 60.96 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid f9f272be-7807-45e9-a87d-a08b1d30e04f))
+
+(label "+3V3" (at 430.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 49c5e0ff-0bcc-40b8-b81b-e32984ded8c0))
+
+(label "BL_NEG" (at 438.44 60.96 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 5f6edba3-bf80-4c94-b367-13077c4b7735))
+
+(label "+3V3" (at 450.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid f66d639f-4c0c-4e76-90c4-194cefc00242))
+)

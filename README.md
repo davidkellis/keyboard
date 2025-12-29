@@ -6,6 +6,7 @@
 - Footprint target: Choc v2 (not Cherry MX pin layout, not Choc v1 keycaps).
 - Stem: MX-style "+" stem (per Choc v2 description).
 - Hot-swap: required.
+- Switch footprints: MX_V2 Kailh PG1353 hotswap library (Kailh_PG1353_Hotswap).
 - Controller: nice!nano v2-compatible BLE clones (same pinout as nice!nano v2).
 - Features: no rotary encoder, no OLED; white backlight via edge-lit plate.
 - Case: custom, as thin as possible.
