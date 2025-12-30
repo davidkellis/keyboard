@@ -1,0 +1,2515 @@
+Info: Processing symbol 'D44:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW43:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D49:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW44:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D48:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW45:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D47:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW46:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW47:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U'.
+Info: Processing symbol 'D46:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW48:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D45:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW49:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D50:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW50:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D43:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW51:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.75U'.
+Info: Processing symbol 'D42:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW52:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D41:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW53:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D40:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW54:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D39:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW55:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D56:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D61:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW31:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D60:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW32:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D59:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW33:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D58:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW34:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U'.
+Info: Processing symbol 'D57:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW35:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW36:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D38:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW37:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D55:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW38:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D54:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW39:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D53:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW40:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D52:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW41:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D51:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW42:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D21:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW69:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D26:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW70:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D25:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW71:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D24:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW72:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D23:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW73:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D22:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW74:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D27:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW75:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.75U'.
+Info: Processing symbol 'D20:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW76:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D19:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW77:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'SW78:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'D18:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW79:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'D17:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW80:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-6.25U'.
+Info: Processing symbol 'D16:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW62:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW56:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW57:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D37:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW58:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D36:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW59:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D35:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW60:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D34:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW61:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D33:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW30:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2U'.
+Info: Processing symbol 'D32:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW63:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U'.
+Info: Processing symbol 'D31:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW64:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U'.
+Info: Processing symbol 'D30:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW65:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D29:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW66:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW67:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D28:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW68:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'R115:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED8:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R110:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED7:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R111:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED6:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R112:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED5:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R113:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED4:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R114:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED3:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R109:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED2:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R116:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED1:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'SW1:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'JBAT1:ScottoKeebs_Components:Connector_1x02_JST-PH'.
+Info: Processing symbol 'SW2:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D87:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW3:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D86:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW4:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW5:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'R103:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'R3:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'R2:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'R4:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'R1:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'R5:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R101:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED16:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R102:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'C1:ScottoKeebs_Components:Capacitor_0603'.
+Info: Processing symbol 'LED15:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'D85:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'LED14:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R104:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED13:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R105:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED12:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R106:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED11:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R107:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED10:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'R108:ScottoKeebs_Components:Resistor_0805'.
+Info: Processing symbol 'LED9:ScottoKeebs_Components:LED_1206'.
+Info: Processing symbol 'D67:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW18:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D72:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW19:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D71:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW20:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D70:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW21:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D69:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW22:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D68:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW23:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D73:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW24:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D66:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW25:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW26:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D65:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW27:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D64:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW28:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D63:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW29:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D62:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D79:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW6:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D84:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW7:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D83:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW8:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D82:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW9:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D81:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW10:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D80:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW11:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Total warnings: 6, errors: 0.
+Info: Processing symbol 'SW12:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D78:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW13:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D77:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW14:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D76:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW15:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D75:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW16:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D74:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW17:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'U2:Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm'.
+Info: Processing symbol 'D14:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW86:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D5:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D10:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D9:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D8:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW81:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'D12:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D15:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D3:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D6:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D13:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW87:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'SW82:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'U1:ScottoKeebs_MCU:Nice_Nano_V2'.
+Info: Processing symbol 'D1:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D4:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D7:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW85:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U'.
+Info: Processing symbol 'D2:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'D11:ScottoKeebs_Components:Diode_SOD-123'.
+Info: Processing symbol 'SW84:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'SW83:MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U'.
+Info: Processing symbol 'SWPWR1:ScottoKeebs_Components:Switch_MSK12C02'.
+Add net COL11.
+Connected SW10 pin 2 to Net-(D10-A).
+Connected SW12 pin 2 to Net-(D12-A).
+Updated SW12 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to SW12.
+Changed SW12 value from 1U to SW_Push.
+Updated SW12 sheetname to '/'.
+Updated SW12 fields.
+Updated SW12 symbol association from  to /1f277f41-f67a-4044-8fd0-8839941cff3d.
+Added SW12 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Connected U1 pin 24 to /BL_PWM.
+Connected SW11 pin 2 to Net-(D11-A).
+Connected SW11 pin 1 to COL10.
+Add net COL10.
+Updated SW11 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW11 sheetname to '/'.
+Updated SW11 fields.
+Updated SW11 symbol association from  to /f4e5f219-10e8-4592-b06b-21ea331bf043.
+Changed SW11 value from 1U to SW_Push.
+Changed REF** reference designator to SW11.
+Add net unconnected-(U1-8-Pad11).
+Added SW11 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Connected U1 pin 11 to unconnected-(U1-8-Pad11).
+Updated SW15 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added SW15 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW14 symbol association from  to /8ca5412a-7349-4ed3-b846-0ef3a1065e17.
+Updated SW14 fields.
+Updated SW14 sheetname to '/'.
+Updated SW14 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net COL13.
+Connected SW14 pin 1 to COL13.
+Connected SW14 pin 2 to Net-(D14-A).
+Connected U1 pin 14 to /GND.
+Changed SW14 value from 1U to SW_Push.
+Connected U1 pin 2 to ROW4.
+Changed REF** reference designator to SW15.
+Changed SW15 value from 1U to SW_Push.
+Updated SW15 symbol association from  to /974fbb55-abe8-4896-8f36-c7119a4c1642.
+Updated SW15 fields.
+Updated SW15 sheetname to '/'.
+Connected U1 pin 17 to unconnected-(U1-18-Pad17).
+Updated SW13 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U1 pin 20 to unconnected-(U1-21-Pad20).
+Added SW13 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Add net unconnected-(U1-21-Pad20).
+Changed REF** reference designator to SW13.
+Changed SW13 value from 1U to SW_Push.
+Updated SW13 symbol association from  to /1a043e65-19b0-45a3-8a4b-c9d7ef62bf35.
+Updated SW13 fields.
+Updated SW13 sheetname to '/'.
+Connected SW12 pin 1 to COL11.
+Connected SW13 pin 2 to Net-(D13-A).
+Add net COL12.
+Connected SW13 pin 1 to COL12.
+Connected U1 pin 27 to unconnected-(U1-7-Pad27).
+Added SW14 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Add net unconnected-(U1-7-Pad27).
+Changed REF** reference designator to SW14.
+Changed SW7 value from 1U to SW_Push.
+Updated SW6 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW6 pin 2 to Net-(D6-A).
+Add net COL5.
+Connected SW6 pin 1 to COL5.
+Connected U1 pin 21 to unconnected-(U1-3.3v-Pad21).
+Add net unconnected-(U1-3.3v-Pad21).
+Added SW7 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW7.
+Updated SW6 sheetname to '/'.
+Updated SW7 symbol association from  to /8d32f1f5-b023-4c06-9214-c34106f5a02f.
+Updated SW7 fields.
+Updated SW7 sheetname to '/'.
+Updated SW7 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW7 pin 2 to Net-(D7-A).
+Add net COL6.
+Connected SW7 pin 1 to COL6.
+Add net COL4.
+Added SW5 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW5.
+Changed SW5 value from 1U to SW_Push.
+Updated SW5 symbol association from  to /0b706b4c-c266-45b8-8494-d2667d27bfc4.
+Updated SW5 fields.
+Updated SW5 sheetname to '/'.
+Updated SW5 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW5 pin 2 to Net-(D5-A).
+Connected U1 pin 6 to ROW0.
+Connected SW5 pin 1 to COL4.
+Connected U1 pin 9 to /GND.
+Added SW6 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW6.
+Changed SW6 value from 1U to SW_Push.
+Updated SW6 symbol association from  to /b08b140e-f2c7-4c47-a1c4-d3e629e2239c.
+Updated SW6 fields.
+Connected U1 pin 7 to /SCL.
+Updated SW9 fields.
+Updated SW9 sheetname to '/'.
+Updated SW9 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net COL8.
+Connected SW9 pin 1 to COL8.
+Connected SW9 pin 2 to Net-(D9-A).
+Connected U1 pin 5 to ROW1.
+Added SW10 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW9 symbol association from  to /d7e7529d-d60d-4ccd-a242-05ecb913c5f9.
+Changed REF** reference designator to SW10.
+Changed SW10 value from 1U to SW_Push.
+Updated SW10 symbol association from  to /54c8b141-a13e-4d02-abc5-2e3fcc6670e9.
+Updated SW10 fields.
+Updated SW10 sheetname to '/'.
+Updated SW10 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net COL9.
+Connected SW8 pin 2 to Net-(D8-A).
+Added SW8 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Connected U1 pin 8 to /SDA.
+Changed REF** reference designator to SW8.
+Changed SW8 value from 1U to SW_Push.
+Updated SW8 symbol association from  to /61ea9c49-fdbe-4784-84e5-e57035e050d3.
+Updated SW8 fields.
+Updated SW8 sheetname to '/'.
+Updated SW8 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW10 pin 1 to COL9.
+Add net COL7.
+Connected SW8 pin 1 to COL7.
+Connected U1 pin 19 to unconnected-(U1-20-Pad19).
+Added SW9 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Add net unconnected-(U1-20-Pad19).
+Changed REF** reference designator to SW9.
+Changed SW9 value from 1U to SW_Push.
+Updated SW24 symbol association from  to /aeb2a3f2-2d16-484d-a67e-67b32fc2aefd.
+Updated SW23 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW23 pin 1 to COL6.
+Connected U1 pin 12 to unconnected-(U1-9-Pad12).
+Connected SW23 pin 2 to Net-(D23-A).
+Add net unconnected-(U1-9-Pad12).
+Added SW24 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW24.
+Changed SW24 value from 1U to SW_Push.
+Updated SW23 sheetname to '/'.
+Updated SW24 fields.
+Updated SW24 sheetname to '/'.
+Updated SW24 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW24 pin 1 to COL7.
+Connected SW24 pin 2 to Net-(D24-A).
+Connected U1 pin 16 to /+3V3.
+Added SW25 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW25.
+Connected SW22 pin 2 to Net-(D22-A).
+Added SW22 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW22.
+Changed SW22 value from 1U to SW_Push.
+Updated SW22 symbol association from  to /de6fb941-d07d-4130-8f0c-a99b01d2a3b0.
+Updated SW22 fields.
+Updated SW22 sheetname to '/'.
+Updated SW22 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U1 pin 15 to unconnected-(U1-14-Pad15).
+Changed SW25 value from 1U to SW_Push.
+Connected SW22 pin 1 to COL5.
+Add net unconnected-(U1-14-Pad15).
+Added SW23 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW23.
+Changed SW23 value from 1U to SW_Push.
+Updated SW23 symbol association from  to /501f87fe-6a5c-4313-96bb-ee8baa8326f2.
+Updated SW23 fields.
+Updated SW27 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U1 pin 3 to ROW3.
+Added SW27 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated U1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to SW27.
+Changed SW27 value from 1U to SW_Push.
+Updated SW27 symbol association from  to /4b6404f5-80a2-4dd4-89fe-bd0c5a681f13.
+Updated SW27 fields.
+Updated SW27 sheetname to '/'.
+Connected SW26 pin 2 to Net-(D26-A).
+Connected SW27 pin 1 to COL10.
+Connected SW27 pin 2 to Net-(D27-A).
+Updated U1 sheetname to '/'.
+Added SW28 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW28.
+Updated U1 fields.
+Changed SW28 value from 1U to SW_Push.
+Updated SW28 symbol association from  to /3d964f4f-1d37-45cf-874e-b4496f60e42d.
+Added SW26 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW25 symbol association from  to /636f0f0a-a4f4-46ea-8492-b2f02ffba566.
+Updated SW25 fields.
+Updated SW25 sheetname to '/'.
+Updated SW25 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW25 pin 1 to COL8.
+Connected SW25 pin 2 to Net-(D25-A).
+Connected U1 pin 25 to unconnected-(U1-1-Pad25).
+Add net unconnected-(U1-1-Pad25).
+Connected U1 pin 13 to /VBAT.
+Changed REF** reference designator to SW26.
+Changed SW26 value from 1U to SW_Push.
+Updated SW26 symbol association from  to /0c3c25c2-fb11-4a33-b2a1-86238a4551c7.
+Updated SW26 fields.
+Updated SW26 sheetname to '/'.
+Updated SW26 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW26 pin 1 to COL9.
+Add net unconnected-(U1-2-Pad26).
+Changed REF** reference designator to SW17.
+Changed SW17 value from 1U to SW_Push.
+Updated SW17 symbol association from  to /66b75cd1-6921-4b1c-b156-b1b17c615bfa.
+Updated SW17 fields.
+Updated SW17 sheetname to '/'.
+Updated SW17 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW17 pin 2 to Net-(D17-A).
+Connected SW17 pin 1 to COL0.
+Connected U1 pin 26 to unconnected-(U1-2-Pad26).
+Added SW18 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW18.
+Changed SW18 value from 1U to SW_Push.
+Updated SW18 symbol association from  to /ef799a35-e540-4463-8fe8-bcf042bafc6f.
+Updated SW18 fields.
+Updated SW18 sheetname to '/'.
+Updated SW18 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW18 pin 2 to Net-(D18-A).
+Updated SW16 fields.
+Add net COL14.
+Connected SW15 pin 1 to COL14.
+Connected U1 pin 10 to /GND.
+Added SW16 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW4 sheetname to '/'.
+Changed REF** reference designator to SW16.
+Changed SW16 value from 1U to SW_Push.
+Updated SW16 symbol association from  to /e61edf1b-bc06-47fa-8197-83884bbe44f5.
+Connected SW18 pin 1 to COL1.
+Updated SW16 sheetname to '/'.
+Updated SW16 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW16 pin 2 to Net-(D16-A).
+Add net COL15.
+Connected SW16 pin 1 to COL15.
+Add net unconnected-(U1-18-Pad17).
+Added SW17 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed SW21 value from 1U to SW_Push.
+Connected U1 pin 23 to ROW6.
+Updated SW20 sheetname to '/'.
+Updated SW20 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW20 pin 1 to COL3.
+Connected SW20 pin 2 to Net-(D20-A).
+Connected U1 pin 22 to ROW7.
+Added SW21 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW21.
+Updated SW20 fields.
+Updated SW21 symbol association from  to /db3e09db-c543-4a7b-b92c-780db77c016a.
+Updated SW21 fields.
+Updated SW21 sheetname to '/'.
+Connected U1 pin 4 to ROW2.
+Updated SW21 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW21 pin 2 to Net-(D21-A).
+Connected SW21 pin 1 to COL4.
+Updated SW19 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U1 pin 18 to unconnected-(U1-19-Pad18).
+Added SW19 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW19.
+Changed SW19 value from 1U to SW_Push.
+Updated SW19 symbol association from  to /de5a3613-de65-421a-9121-45f76b6d3963.
+Add net unconnected-(U1-19-Pad18).
+Updated SW19 fields.
+Updated SW19 sheetname to '/'.
+Connected SW15 pin 2 to Net-(D15-A).
+Connected SW19 pin 2 to Net-(D19-A).
+Connected SW19 pin 1 to COL2.
+Connected U1 pin 1 to ROW5.
+Added SW20 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW20.
+Changed SW20 value from 1U to SW_Push.
+Updated SW20 symbol association from  to /b6d36434-64c5-43f0-8510-f130f22f6c88.
+Updated R105 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U2 pin 14 to unconnected-(U2-NC-Pad14).
+Added R105 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R105.
+Changed R105 value from Resistor_0805 to 1k.
+Updated R105 symbol association from  to /520cfd58-2542-4698-a039-f062604de17d.
+Updated R105 fields.
+Updated R105 sheetname to '/'.
+Add net unconnected-(U2-NC-Pad14).
+Connected R104 pin 1 to Net-(LED4-A).
+Updated R105 footprint filters to 'R_*'.
+Connected R105 pin 2 to /+3V3.
+Connected R105 pin 1 to Net-(LED5-A).
+Connected U2 pin 5 to COL3.
+Added R106 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R106.
+Changed R106 value from Resistor_0805 to 1k.
+Updated R106 symbol association from  to /3814d590-9131-4e3c-ba16-ef7635a23113.
+Changed R104 value from Resistor_0805 to 1k.
+Updated R103 sheetname to '/'.
+Updated R103 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R103 footprint filters to 'R_*'.
+Connected R103 pin 2 to /+3V3.
+Connected R103 pin 1 to Net-(LED3-A).
+Connected U2 pin 11 to unconnected-(U2-NC-Pad11).
+Added R104 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R104.
+Updated R106 fields.
+Updated R104 symbol association from  to /acade3cf-6eaa-4ac1-9c9b-8a70b798fe20.
+Updated R104 fields.
+Updated R104 sheetname to '/'.
+Add net unconnected-(U2-NC-Pad11).
+Updated R104 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R104 footprint filters to 'R_*'.
+Connected R104 pin 2 to /+3V3.
+Connected U2 pin 10 to /+3V3.
+Connected R107 pin 1 to Net-(LED7-A).
+Add net unconnected-(U2-~{RESET}-Pad18).
+Added R108 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R108.
+Changed R108 value from Resistor_0805 to 1k.
+Updated R108 symbol association from  to /6f805162-c443-47d1-8416-9dddd7bac719.
+Updated R108 fields.
+Updated R108 sheetname to '/'.
+Connected R107 pin 2 to /+3V3.
+Updated R108 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R108 footprint filters to 'R_*'.
+Connected R108 pin 1 to Net-(LED8-A).
+Connected R108 pin 2 to /+3V3.
+Connected U2 pin 12 to /GND.
+Added R109 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R109.
+Changed REF** reference designator to R107.
+Updated R106 sheetname to '/'.
+Connected U2 pin 2 to COL6.
+Updated R106 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R106 footprint filters to 'R_*'.
+Connected R106 pin 1 to Net-(LED6-A).
+Connected R106 pin 2 to /+3V3.
+Connected U2 pin 15 to /SDA.
+Added R107 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Updated R103 fields.
+Changed R107 value from Resistor_0805 to 1k.
+Updated R107 symbol association from  to /ab29595d-28f9-4107-9832-0f22efcd685d.
+Updated R107 fields.
+Updated R107 sheetname to '/'.
+Connected U2 pin 18 to unconnected-(U2-~{RESET}-Pad18).
+Updated R107 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R107 footprint filters to 'R_*'.
+Connected R4 pin 1 to /BL_GATE.
+Updated R4 symbol association from  to /81c8e022-1b17-4b13-a366-5c3e11f93879.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected U2 pin 28 to COL8.
+Add net /BL_PWM.
+Connected R4 pin 2 to /BL_PWM.
+Changed R4 value from Resistor_0805 to 100.
+Connected U2 pin 20 to /MCP_RESET.
+Added R5 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R5.
+Changed R5 value from Resistor_0805 to 100k.
+Updated R5 symbol association from  to /3ae6d0b9-be40-4f6e-ab89-fdf33d9f221c.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Updated LED15 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added R3 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R3.
+Changed R3 value from Resistor_0805 to 10k.
+Updated R3 symbol association from  to /5b1fe10f-78a1-4090-87f0-3318d02189c0.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected U2 pin 25 to COL11.
+Connected R3 pin 2 to /+3V3.
+
+Add net /MCP_RESET.
+Connected R3 pin 1 to /MCP_RESET.
+
+Added R4 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R4.
+Updated R102 footprint filters to 'R_*'.
+Added R102 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R102.
+Changed R102 value from Resistor_0805 to 1k.
+Updated R102 symbol association from  to /b24efe52-87be-46ff-b486-aa9e04de5312.
+Updated R102 fields.
+Updated R102 sheetname to '/'.
+Connected U2 pin 7 to COL1.
+Updated R102 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net unconnected-(U2-A2-Pad17).
+Connected R102 pin 1 to Net-(LED2-A).
+Connected R102 pin 2 to /+3V3.
+Connected U2 pin 4 to COL4.
+Added R103 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R103.
+Changed R103 value from Resistor_0805 to 1k.
+Updated R103 symbol association from  to /77bc2a36-5457-4dd2-ba1a-58a63a93a909.
+Updated R101 fields.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 2 to /GND.
+Connected R5 pin 1 to /BL_GATE.
+Connected U2 pin 19 to unconnected-(U2-INTB-Pad19).
+Added R101 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R101.
+Changed R101 value from Resistor_0805 to 1k.
+Updated R101 symbol association from  to /27cc3396-fbdc-44ae-8c05-471515765e2e.
+Changed R109 value from Resistor_0805 to 1k.
+Updated R101 sheetname to '/'.
+Updated R101 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net unconnected-(U2-INTB-Pad19).
+Updated R101 footprint filters to 'R_*'.
+Connected R101 pin 2 to /+3V3.
+Connected R101 pin 1 to Net-(LED1-A).
+Connected U2 pin 17 to unconnected-(U2-A2-Pad17).
+Updated SW1 symbol association from  to /4d26121a-c7ab-4c0c-9f41-d899014d8257.
+Connected U2 pin 8 to COL0.
+Updated R116 footprint filters to 'R_*'.
+Connected R116 pin 1 to Net-(LED16-A).
+Connected R116 pin 2 to /+3V3.
+Updated U2 footprint filters to 'SOIC*7.5x17.9mm*P1.27mm*'.
+Added SW1 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW1.
+Changed SW1 value from 1U to SW_Push.
+Updated R116 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net COL0.
+Connected SW1 pin 1 to COL0.
+Connected SW1 pin 2 to Net-(D1-A).
+Updated U2 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated U2 sheetname to '/'.
+Connected R115 pin 2 to /+3V3.
+Changed REF** reference designator to R115.
+Changed R115 value from Resistor_0805 to 1k.
+Updated R115 symbol association from  to /6e8b8d9b-8cd0-4559-91b8-3e3c25343c0e.
+Updated R115 fields.
+Updated R115 sheetname to '/'.
+Connected U2 pin 26 to COL10.
+Updated R115 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R115 footprint filters to 'R_*'.
+Added SW2 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Connected R115 pin 1 to Net-(LED15-A).
+Added R116 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R116.
+Changed R116 value from Resistor_0805 to 1k.
+Updated R116 symbol association from  to /1c263cd5-9286-4d5f-a125-9e570b5f37dc.
+Updated R116 fields.
+Updated R116 sheetname to '/'.
+Changed SW4 value from 1U to SW_Push.
+Updated SW3 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW3 pin 2 to Net-(D3-A).
+Add net COL2.
+Connected SW3 pin 1 to COL2.
+Changed U2 value from SOIC-28W_7.5x17.9mm_P1.27mm to MCP23017.
+Changed REF** reference designator to U2.
+Added SW4 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW4.
+Updated SW3 sheetname to '/'.
+Updated SW4 symbol association from  to /9e3b9155-3af7-4004-8b81-c86b002e21bd.
+Updated SW4 fields.
+Added U1 (footprint 'ScottoKeebs_MCU:Nice_Nano_V2').
+Updated SW4 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW4 pin 2 to Net-(D4-A).
+Add net COL3.
+Connected SW4 pin 1 to COL3.
+Connected SW2 pin 1 to COL1.
+Changed REF** reference designator to SW2.
+Changed SW2 value from 1U to SW_Push.
+Updated SW2 symbol association from  to /244e89fc-c131-42b9-8be1-348df1f22c9d.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW2 pin 2 to Net-(D2-A).
+Add net COL1.
+Added R115 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Updated U2 fields.
+Updated U2 symbol association from  to /3cced5b6-fa29-46b9-85ab-9b62dc94d1e1.
+Added SW3 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW3.
+Changed SW3 value from 1U to SW_Push.
+Updated SW3 symbol association from  to /538ca3b5-fe08-496f-bbf4-90f99c9db66d.
+Updated SW3 fields.
+Updated R111 sheetname to '/'.
+Connected R110 pin 2 to /+3V3.
+Connected R110 pin 1 to Net-(LED10-A).
+Connected U2 pin 9 to /GND.
+Added R111 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R111.
+Changed R111 value from Resistor_0805 to 1k.
+Updated R111 symbol association from  to /30a9908f-c25d-48a1-90c1-fcb15f9f0f50.
+Updated R111 fields.
+Updated R110 footprint filters to 'R_*'.
+Connected U2 pin 1 to COL7.
+Updated R111 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R111 footprint filters to 'R_*'.
+Connected R111 pin 1 to Net-(LED11-A).
+Connected R111 pin 2 to /+3V3.
+Connected U2 pin 13 to /GND.
+Added R112 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R112.
+Added R110 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Updated R109 symbol association from  to /6b58c3fd-352e-429d-9e94-ecea435b8412.
+Updated R109 fields.
+Updated R109 sheetname to '/'.
+Connected U2 pin 23 to COL13.
+Updated R109 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R109 footprint filters to 'R_*'.
+Connected R109 pin 2 to /+3V3.
+Connected R109 pin 1 to Net-(LED9-A).
+Changed R112 value from Resistor_0805 to 1k.
+Changed REF** reference designator to R110.
+Changed R110 value from Resistor_0805 to 1k.
+Updated R110 symbol association from  to /1bdfb71d-6e26-4491-b085-104d7b4d46f0.
+Updated R110 fields.
+Updated R110 sheetname to '/'.
+Connected U2 pin 27 to COL9.
+Updated R110 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R114 fields.
+Updated R113 footprint filters to 'R_*'.
+Connected R113 pin 2 to /+3V3.
+Connected R113 pin 1 to Net-(LED13-A).
+Connected U2 pin 21 to COL15.
+Added R114 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R114.
+Changed R114 value from Resistor_0805 to 1k.
+Updated R114 symbol association from  to /4841492a-d50e-4dd6-be20-420cd62feb21.
+Updated R113 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R114 sheetname to '/'.
+Connected U2 pin 24 to COL12.
+Updated R114 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R114 footprint filters to 'R_*'.
+Connected R114 pin 1 to Net-(LED14-A).
+Connected R114 pin 2 to /+3V3.
+Connected U2 pin 22 to COL14.
+Connected U2 pin 3 to COL5.
+Updated R112 symbol association from  to /0d643def-9165-4b7b-aaca-aafa36888930.
+Updated R112 fields.
+Updated R112 sheetname to '/'.
+Connected U2 pin 16 to /SCL.
+Updated R112 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R112 footprint filters to 'R_*'.
+Connected R112 pin 2 to /+3V3.
+Connected R112 pin 1 to Net-(LED12-A).
+Added U2 (footprint 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm').
+Added R113 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R113.
+Changed R113 value from Resistor_0805 to 1k.
+Updated R113 symbol association from  to /1160409a-866d-4e91-9935-8e3f0acb85f5.
+Updated R113 fields.
+Updated R113 sheetname to '/'.
+Connected U2 pin 6 to COL2.
+Updated SW63 fields.
+Updated SW62 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW62 pin 2 to Net-(D62-A).
+Connected SW62 pin 1 to COL4.
+Updated SW83 sheetname to '/'.
+Added SW63 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U').
+Changed REF** reference designator to SW63.
+Changed SW63 value from 2.25U to SW_Push.
+Updated SW63 symbol association from  to /16d1955a-7774-4139-9aca-45753b47cf66.
+Updated SW62 sheetname to '/'.
+Updated SW63 sheetname to '/'.
+Updated SW63 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW83 fields.
+Connected SW63 pin 2 to Net-(D63-A).
+Connected SW63 pin 1 to COL5.
+Updated SW83 symbol association from  to /cc207c7a-1b6d-4d88-b1ca-e0cbf9a79620.
+Added SW64 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.25U').
+Changed REF** reference designator to SW64.
+Connected SW61 pin 2 to Net-(D61-A).
+Added SW61 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW61.
+Changed SW61 value from 1U to SW_Push.
+Updated SW61 symbol association from  to /d59e4a84-a066-4eb6-89b1-64f789aeaeff.
+Connected SW83 pin 2 to Net-(D83-A).
+Updated SW61 fields.
+Updated SW61 sheetname to '/'.
+Updated SW61 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed SW64 value from 2.25U to SW_Push.
+Connected SW61 pin 1 to COL3.
+Updated SW83 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added SW62 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW62.
+Changed SW62 value from 1U to SW_Push.
+Updated SW62 symbol association from  to /50175ed7-98c0-4dc8-b5d6-c11a8d98f12e.
+Updated SW62 fields.
+Connected SW66 pin 1 to COL8.
+Added SW83 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Added SW66 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW66.
+Changed SW66 value from 1U to SW_Push.
+Updated SW66 symbol association from  to /2e53ea68-2844-4429-9670-4be8bf0bd686.
+Updated SW66 fields.
+Updated SW66 sheetname to '/'.
+Updated SW66 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW65 pin 2 to Net-(D65-A).
+Connected SW66 pin 2 to Net-(D66-A).
+Connected SW82 pin 1 to COL0.
+Connected SW82 pin 2 to Net-(D82-A).
+Added SW67 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW67.
+Changed SW67 value from 1U to SW_Push.
+Updated SW67 symbol association from  to /f5bbbe5a-ca51-4558-92db-5546098feece.
+Added SW65 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW64 symbol association from  to /5e91f851-f5ae-4129-bc78-4f07881bbcdc.
+Updated SW64 fields.
+Updated SW64 sheetname to '/'.
+Updated SW64 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW64 pin 2 to Net-(D64-A).
+Changed SW83 value from 1.25U to SW_Push.
+Connected SW64 pin 1 to COL6.
+Changed REF** reference designator to SW83.
+Connected SW83 pin 1 to COL1.
+Changed REF** reference designator to SW65.
+Changed SW65 value from 1U to SW_Push.
+Updated SW65 symbol association from  to /9bd63bc4-43aa-4ef1-ac41-17b869fb7d32.
+Updated SW65 fields.
+Updated SW65 sheetname to '/'.
+Updated SW65 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW65 pin 1 to COL7.
+Updated SW84 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to SW56.
+Changed SW56 value from 1U to SW_Push.
+Updated SW56 symbol association from  to /021143f1-6765-49f8-93b5-be1b1c93daf0.
+Updated SW56 fields.
+Updated SW56 sheetname to '/'.
+Updated SW56 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW56 pin 2 to Net-(D56-A).
+Connected SW56 pin 1 to COL11.
+Added SW56 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW84 sheetname to '/'.
+Added SW57 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW57.
+Changed SW57 value from 1U to SW_Push.
+Updated SW57 symbol association from  to /27937c85-b7ee-486f-b985-b65fe7dfe324.
+Updated SW57 fields.
+Updated SW57 sheetname to '/'.
+Updated SW57 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed SW55 value from 1U to SW_Push.
+Updated SW54 fields.
+Updated SW54 sheetname to '/'.
+Updated SW54 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW54 pin 1 to COL9.
+Connected SW54 pin 2 to Net-(D54-A).
+Connected SW84 pin 2 to Net-(D84-A).
+Added SW55 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW55.
+Connected SW57 pin 1 to COL12.
+Updated SW55 symbol association from  to /fed3a2a9-a83c-4b84-b191-7e3e796fe494.
+Updated SW55 fields.
+Updated SW55 sheetname to '/'.
+Updated SW55 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW55 pin 1 to COL10.
+Connected SW55 pin 2 to Net-(D55-A).
+Connected SW84 pin 1 to COL2.
+Changed REF** reference designator to SW60.
+Updated SW59 symbol association from  to /ae605118-b2a2-4947-bbc6-d96b423f69f1.
+Updated SW59 fields.
+Updated SW59 sheetname to '/'.
+Updated SW59 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW59 pin 2 to Net-(D59-A).
+Connected SW59 pin 1 to COL1.
+Added SW84 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Added SW60 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed SW59 value from 1U to SW_Push.
+Changed SW60 value from 1U to SW_Push.
+Updated SW60 symbol association from  to /7b71d7b4-1113-43db-b936-17dbb4221f79.
+Updated SW60 fields.
+Updated SW60 sheetname to '/'.
+Updated SW60 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW60 pin 1 to COL2.
+Connected SW60 pin 2 to Net-(D60-A).
+Updated SW58 sheetname to '/'.
+Connected SW57 pin 2 to Net-(D57-A).
+Updated SW84 fields.
+Added SW58 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW84 symbol association from  to /28bcaeca-2831-4e5e-9f93-8a8d584c49be.
+Changed REF** reference designator to SW58.
+Changed SW58 value from 1U to SW_Push.
+Updated SW58 symbol association from  to /80b8d05e-ae8f-4621-af43-21a137369760.
+Updated SW58 fields.
+Updated SW67 fields.
+Updated SW58 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW58 pin 2 to Net-(D58-A).
+Connected SW58 pin 1 to COL0.
+Changed SW84 value from 1.25U to SW_Push.
+Added SW59 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW59.
+Changed REF** reference designator to SW84.
+Updated SW76 symbol association from  to /1d6f49f3-001b-466b-a8b3-9ed789d291f1.
+Updated SW75 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW75 pin 2 to Net-(D75-A).
+Updated SW81 symbol association from  to /cbd7d9c8-36de-4e52-996a-408b0dab1dd1.
+Connected SW75 pin 1 to COL4.
+Changed SW81 value from 1.25U to SW_Push.
+Added SW76 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW76.
+Changed SW76 value from 1U to SW_Push.
+Updated SW75 sheetname to '/'.
+Updated SW76 fields.
+Updated SW76 sheetname to '/'.
+Updated SW76 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW76 pin 2 to Net-(D76-A).
+Connected SW76 pin 1 to COL5.
+Changed REF** reference designator to SW81.
+Added SW81 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Added SW77 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Updated SW81 fields.
+Updated SW81 sheetname to '/'.
+Added SW74 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW74.
+Changed SW74 value from 1U to SW_Push.
+Updated SW74 symbol association from  to /ee0733cb-2e47-4a5d-8db6-08fefc3f42fb.
+Updated SW74 fields.
+Updated SW74 sheetname to '/'.
+Updated SW74 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to SW77.
+Connected SW74 pin 1 to COL3.
+Connected SW74 pin 2 to Net-(D74-A).
+Added SW75 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2.75U').
+Changed REF** reference designator to SW75.
+Changed SW75 value from 2.75U to SW_Push.
+Updated SW75 symbol association from  to /5bfc6635-bf08-4822-b336-13cf1c2c0608.
+Updated SW75 fields.
+Updated SW79 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW80 pin 2 to Net-(D80-A).
+Added SW79 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Changed REF** reference designator to SW79.
+Updated SW80 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed SW79 value from 1.25U to SW_Push.
+Updated SW79 symbol association from  to /f1b296b9-5bc2-4186-b13c-96f049b5dbbf.
+Updated SW79 fields.
+Updated SW79 sheetname to '/'.
+Connected SW78 pin 1 to COL7.
+Connected SW79 pin 1 to COL8.
+Connected SW79 pin 2 to Net-(D79-A).
+Updated SW80 sheetname to '/'.
+Added SW80 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-6.25U').
+Changed REF** reference designator to SW80.
+Changed SW80 value from 6.25U to SW_Push.
+Updated SW80 fields.
+Added SW78 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Changed SW77 value from 1.25U to SW_Push.
+Updated SW77 symbol association from  to /3baaf2f8-1aca-442e-977d-43ff5a94d453.
+Updated SW77 fields.
+Updated SW77 sheetname to '/'.
+Updated SW77 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW77 pin 2 to Net-(D77-A).
+Connected SW77 pin 1 to COL6.
+Connected SW80 pin 1 to COL9.
+Connected SW73 pin 1 to COL2.
+Changed REF** reference designator to SW78.
+Changed SW78 value from 1.25U to SW_Push.
+Updated SW78 symbol association from  to /b0e6421b-f598-43b0-85d0-872edb1fe8d9.
+Updated SW78 fields.
+Updated SW78 sheetname to '/'.
+Updated SW78 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW78 pin 2 to Net-(D78-A).
+Updated SW82 symbol association from  to /46136fa8-a7f4-48cc-bebc-f44b730f75e8.
+Updated SW82 fields.
+Changed SW69 value from 1U to SW_Push.
+Updated SW69 symbol association from  to /edad4aca-c28e-4d98-aba2-dcb81959e641.
+Updated SW69 fields.
+Updated SW69 sheetname to '/'.
+Updated SW69 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW69 pin 1 to COL11.
+Connected SW69 pin 2 to Net-(D69-A).
+Changed REF** reference designator to SW69.
+Added SW70 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW70.
+Changed SW70 value from 1U to SW_Push.
+Changed SW82 value from 1.25U to SW_Push.
+Updated SW70 symbol association from  to /aeed5b08-6b90-4400-87fb-c01bcadfcd76.
+Updated SW70 fields.
+Updated SW70 sheetname to '/'.
+Changed SW68 value from 1U to SW_Push.
+Updated SW67 sheetname to '/'.
+Updated SW67 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW67 pin 2 to Net-(D67-A).
+Connected SW67 pin 1 to COL9.
+Updated SW82 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added SW68 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW82 sheetname to '/'.
+Changed REF** reference designator to SW68.
+Updated SW70 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW68 symbol association from  to /020de13c-e44d-4cb2-8e8f-42d1921e8ed8.
+Updated SW68 fields.
+Updated SW68 sheetname to '/'.
+Updated SW68 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW68 pin 2 to Net-(D68-A).
+Connected SW68 pin 1 to COL10.
+Added SW69 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW73.
+Updated SW72 fields.
+Connected SW81 pin 1 to COL10.
+Updated SW72 sheetname to '/'.
+Updated SW72 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW72 pin 2 to Net-(D72-A).
+Connected SW72 pin 1 to COL1.
+Connected SW81 pin 2 to Net-(D81-A).
+Added SW73 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW72 symbol association from  to /348b293b-c6be-429b-80bc-296014331cd5.
+Changed SW73 value from 1U to SW_Push.
+Updated SW73 symbol association from  to /821d2573-fb91-4d31-b460-e41c86039533.
+Updated SW73 fields.
+Updated SW73 sheetname to '/'.
+Updated SW81 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW73 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW73 pin 2 to Net-(D73-A).
+Updated SW71 fields.
+Connected SW70 pin 2 to Net-(D70-A).
+Connected SW70 pin 1 to COL12.
+Changed REF** reference designator to SW82.
+Added SW71 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW71.
+Changed SW71 value from 1U to SW_Push.
+Updated SW71 symbol association from  to /826ecf32-124e-47fa-82ec-054bf5b46cc5.
+Added SW82 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.25U').
+Updated SW54 symbol association from  to /a7fe785e-db51-4892-a453-020a0d597931.
+Updated SW71 sheetname to '/'.
+Updated SW71 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW71 pin 2 to Net-(D71-A).
+Connected SW71 pin 1 to COL0.
+Added SW72 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW72.
+Changed SW72 value from 1U to SW_Push.
+Updated SW37 symbol association from  to /a72c7430-336f-45cc-a9b5-cc84c11c1247.
+Updated SW36 sheetname to '/'.
+Updated SW36 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW36 pin 1 to COL5.
+Connected SW36 pin 2 to Net-(D36-A).
+Added SWPWR1 (footprint 'ScottoKeebs_Components:Switch_MSK12C02').
+Added SW37 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW37.
+Changed SW37 value from 1U to SW_Push.
+Updated SW36 fields.
+Updated SW37 fields.
+Updated SW37 sheetname to '/'.
+Updated SW37 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW37 pin 1 to COL6.
+Connected SW37 pin 2 to Net-(D37-A).
+Added SW38 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW38.
+Connected SW87 pin 2 to Net-(D87-A).
+Connected SW35 pin 2 to Net-(D35-A).
+Updated SWPWR1 symbol association from  to /28ec4ab6-7160-4e49-a0db-eab7b8052865.
+Added SW35 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW35.
+Changed SW35 value from 1U to SW_Push.
+Updated SW35 symbol association from  to /7e59bab3-389a-4f7b-8156-b229d5b281f4.
+Updated SW35 fields.
+Updated SW35 sheetname to '/'.
+Updated SW35 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed SW38 value from 1U to SW_Push.
+Connected SW35 pin 1 to COL4.
+Changed SWPWR1 value from Switch_MSK12C02 to Power_Switch.
+Changed REF** reference designator to SWPWR1.
+Added SW36 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW36.
+Changed SW36 value from 1U to SW_Push.
+Updated SW36 symbol association from  to /1e5450d0-8d0f-4680-9f2a-e8caf69360d1.
+Updated SW40 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW87 sheetname to '/'.
+Added SW40 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW40.
+Changed SW40 value from 1U to SW_Push.
+Updated SW40 symbol association from  to /164c57a9-de2c-4c91-a95d-e42e7e152f2a.
+Updated SW87 fields.
+Updated SW40 fields.
+Updated SW40 sheetname to '/'.
+Connected SW39 pin 2 to Net-(D39-A).
+Connected SW40 pin 1 to COL9.
+Connected SW40 pin 2 to Net-(D40-A).
+Updated SW87 symbol association from  to /0479319b-7f57-44d0-8a61-9270781b3fd3.
+Added SW41 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW41.
+Changed SW41 value from 1U to SW_Push.
+Updated SW41 symbol association from  to /c8e1db9a-b4e0-41f9-8b23-b20136c1b04e.
+Changed REF** reference designator to SW39.
+Updated SW38 symbol association from  to /b7b76c7f-3249-49a3-a184-9a938513bf21.
+Updated SW38 fields.
+Updated SW38 sheetname to '/'.
+Updated SW38 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW38 pin 1 to COL7.
+Connected SW38 pin 2 to Net-(D38-A).
+Connected SW87 pin 1 to COL2.
+Added SW39 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SWPWR1 fields.
+Changed SW39 value from 1U to SW_Push.
+Updated SW87 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW39 symbol association from  to /a61469a7-b040-4771-8313-874e324e69a5.
+Updated SW39 fields.
+Updated SW39 sheetname to '/'.
+Updated SW39 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW39 pin 1 to COL8.
+Added SW31 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed SW30 value from 2U to SW_Push.
+Updated SW30 symbol association from  to /d8619c6a-6fc0-407b-b919-46a0bbd71232.
+Connected SWPWR1 pin 1 to unconnected-(SWPWR1-A-Pad1).
+Updated SW30 fields.
+Updated SW30 sheetname to '/'.
+Updated SW30 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW30 pin 2 to Net-(D30-A).
+Connected SW30 pin 1 to COL13.
+Changed REF** reference designator to SW30.
+Changed REF** reference designator to SW31.
+Changed SW31 value from 1U to SW_Push.
+Updated SW31 symbol association from  to /a0871aae-a4ea-4a77-8b52-4935bbcb1a43.
+Updated SW31 fields.
+Add net unconnected-(SWPWR1-A-Pad1).
+Updated SW31 sheetname to '/'.
+Updated SW31 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated SW80 symbol association from  to /d0636908-0f51-4937-b54e-cb6102b75d0e.
+Updated SW28 sheetname to '/'.
+Updated SW28 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW28 pin 2 to Net-(D28-A).
+Connected SW28 pin 1 to COL11.
+Updated U1 symbol association from  to /cd99d643-f551-44c9-b211-a3aaa5e2e2cb.
+Added SW29 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW29.
+Changed SW29 value from 1U to SW_Push.
+Connected SW31 pin 2 to Net-(D31-A).
+Updated SW29 symbol association from  to /bcdb3dca-47b7-4737-a4c1-93994c12d774.
+Updated SW29 fields.
+Updated SW29 sheetname to '/'.
+Updated SW29 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW29 pin 2 to Net-(D29-A).
+Connected SW29 pin 1 to COL12.
+Added SW30 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-2U').
+Changed REF** reference designator to SW34.
+Updated SW33 fields.
+Updated SW33 sheetname to '/'.
+Updated SW33 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW33 pin 2 to Net-(D33-A).
+Updated SWPWR1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW33 pin 1 to COL2.
+Updated SWPWR1 sheetname to '/'.
+Added SW34 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U').
+Updated SW33 symbol association from  to /d131dafe-16af-4f41-a46b-c9e705eb1397.
+Changed SW34 value from 1.5U to SW_Push.
+Updated SW34 symbol association from  to /093b4913-f35b-4a8a-b6d2-8bbc8ef3329f.
+Updated SW34 fields.
+Updated SW34 sheetname to '/'.
+Updated SW34 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW34 pin 1 to COL3.
+Connected SW34 pin 2 to Net-(D34-A).
+Connected SWPWR1 pin 2 to /VBAT.
+Connected SW31 pin 1 to COL0.
+Connected SWPWR1 pin 3 to /VBAT_RAW.
+Added SW32 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW32.
+Changed SW32 value from 1U to SW_Push.
+Updated SW32 symbol association from  to /0249cf8d-7398-4dae-949e-c6337ea6efa1.
+Updated SW32 fields.
+Updated SW32 sheetname to '/'.
+Updated SW41 fields.
+Updated SW32 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW32 pin 1 to COL1.
+Connected SW32 pin 2 to Net-(D32-A).
+Add net /VBAT.
+Added SW33 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW33.
+Changed SW33 value from 1U to SW_Push.
+Connected SW85 pin 1 to COL0.
+Updated SW49 sheetname to '/'.
+Updated SW49 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW49 pin 1 to COL4.
+Connected SW49 pin 2 to Net-(D49-A).
+Added SW50 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW50.
+Changed SW50 value from 1U to SW_Push.
+Updated SW50 symbol association from  to /2dfcaca3-c64c-47ec-9bdc-f1e9f67ce076.
+Updated SW49 fields.
+Updated SW50 fields.
+Updated SW50 sheetname to '/'.
+Updated SW50 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW50 pin 1 to COL5.
+Connected SW50 pin 2 to Net-(D50-A).
+Updated SW85 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added SW51 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.75U').
+Changed REF** reference designator to SW51.
+Updated SW48 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to SW86.
+Added SW48 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW48.
+Added SW86 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed SW48 value from 1U to SW_Push.
+Updated SW48 symbol association from  to /aa24fffe-a56f-4d92-af6d-62d47a0a4132.
+Updated SW48 fields.
+Updated SW48 sheetname to '/'.
+Changed SW51 value from 1.75U to SW_Push.
+Connected SW48 pin 1 to COL3.
+Connected SW48 pin 2 to Net-(D48-A).
+Added SW49 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW49.
+Changed SW49 value from 1U to SW_Push.
+Connected SW85 pin 2 to Net-(D85-A).
+Updated SW49 symbol association from  to /514a0776-bb1a-4d8c-8c5f-f79ece83b2ca.
+Updated SW53 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW52 pin 1 to COL7.
+Changed SW85 value from 1U to SW_Push.
+Added SW53 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW53.
+Changed SW53 value from 1U to SW_Push.
+Updated SW53 symbol association from  to /2e9810c0-6e18-4641-9f57-e996e2731fa0.
+Updated SW53 fields.
+Updated SW53 sheetname to '/'.
+Connected SW52 pin 2 to Net-(D52-A).
+Changed REF** reference designator to SW85.
+Connected SW53 pin 2 to Net-(D53-A).
+Connected SW53 pin 1 to COL8.
+Added SW85 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Added SW54 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW54.
+Changed SW54 value from 1U to SW_Push.
+Added SW52 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW51 symbol association from  to /cb356181-efdc-4753-9fd9-17d17a6c04ac.
+Updated SW51 fields.
+Updated SW85 sheetname to '/'.
+Updated SW51 sheetname to '/'.
+Updated SW51 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW51 pin 1 to COL6.
+Connected SW51 pin 2 to Net-(D51-A).
+Updated SW85 fields.
+Connected SW47 pin 1 to COL2.
+Changed REF** reference designator to SW52.
+Changed SW52 value from 1U to SW_Push.
+Updated SW52 symbol association from  to /b3dd8467-aa87-49e3-910a-88183c03e84f.
+Updated SW52 fields.
+Updated SW52 sheetname to '/'.
+Updated SW85 symbol association from  to /c5bcb0f0-914d-433a-8486-cf38845c2b40.
+Updated SW52 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW86 pin 1 to COL1.
+Changed REF** reference designator to SW43.
+Changed SW43 value from 1U to SW_Push.
+Updated SW43 symbol association from  to /1df3812d-b3ba-43c3-9334-295b4be379e5.
+Updated SW43 fields.
+Updated SW43 sheetname to '/'.
+Updated SW43 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW43 pin 1 to COL12.
+Connected SW43 pin 2 to Net-(D43-A).
+Added SW43 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Added SW44 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW44.
+Changed SW44 value from 1U to SW_Push.
+Updated SW44 symbol association from  to /0c4596d5-9df1-48c2-92aa-e584ae2e215d.
+Updated SW44 fields.
+Updated SW44 sheetname to '/'.
+Updated SW44 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed SW42 value from 1U to SW_Push.
+Changed SW87 value from 1U to SW_Push.
+Updated SW41 sheetname to '/'.
+Updated SW41 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW41 pin 1 to COL10.
+Connected SW41 pin 2 to Net-(D41-A).
+Changed REF** reference designator to SW87.
+Added SW42 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW42.
+Connected SW44 pin 1 to COL13.
+Updated SW42 symbol association from  to /e385cd33-8785-4ae1-a373-6f99b6249e76.
+Updated SW42 fields.
+Updated SW42 sheetname to '/'.
+Added SW87 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Updated SW42 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW42 pin 2 to Net-(D42-A).
+Connected SW42 pin 1 to COL11.
+Added SW47 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U').
+Updated SW46 symbol association from  to /6e1235f2-49ad-4272-99fa-f5e9803d921c.
+Updated SW46 fields.
+Updated SW46 sheetname to '/'.
+Updated SW46 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW46 pin 1 to COL1.
+Connected SW46 pin 2 to Net-(D46-A).
+Updated SW86 symbol association from  to /d19b5e61-db2f-4e68-ba53-e79f7b5a5793.
+Changed SW86 value from 1U to SW_Push.
+Changed SW46 value from 1U to SW_Push.
+Changed REF** reference designator to SW47.
+Changed SW47 value from 1.5U to SW_Push.
+Updated SW47 symbol association from  to /6aa55c6f-ebeb-44f7-bccb-b50ecc71b341.
+Updated SW47 fields.
+Updated SW47 sheetname to '/'.
+Updated SW47 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW47 pin 2 to Net-(D47-A).
+Updated SW45 sheetname to '/'.
+Connected SW86 pin 2 to Net-(D86-A).
+Connected SW44 pin 2 to Net-(D44-A).
+Updated SW86 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added SW45 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW45.
+Changed SW45 value from 1U to SW_Push.
+Updated SW45 symbol association from  to /67582e82-c21b-4f6b-a589-f1a763481a4f.
+Updated SW45 fields.
+Updated SW28 fields.
+Updated SW45 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected SW45 pin 1 to COL0.
+Connected SW45 pin 2 to Net-(D45-A).
+Updated SW86 sheetname to '/'.
+Updated SW86 fields.
+Added SW46 (footprint 'MX_V2_Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U').
+Changed REF** reference designator to SW46.
+Updated D36 symbol association from  to /2a82bb77-6b92-4675-b45d-6ae46c3f491b.
+Updated D35 sheetname to '/'.
+Updated D35 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D35 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D35 pin 1 to ROW2.
+Add net Net-(D35-A).
+Connected D35 pin 2 to Net-(D35-A).
+Added D36 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D36.
+Changed D36 value from 1N4148W to D.
+Updated D35 fields.
+Updated D36 fields.
+Updated D36 sheetname to '/'.
+Updated D36 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D36 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D36-A).
+Connected D36 pin 2 to Net-(D36-A).
+Connected D36 pin 1 to ROW2.
+Added D37 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D34 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D33-A).
+Connected D33 pin 2 to Net-(D33-A).
+Connected D33 pin 1 to ROW2.
+Added D34 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D34.
+Changed D34 value from 1N4148W to D.
+Updated D34 symbol association from  to /e7482d64-c8be-4f93-aea2-1d90aca97041.
+Updated D34 fields.
+Updated D34 sheetname to '/'.
+Changed REF** reference designator to D37.
+Updated D34 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D34 pin 1 to ROW2.
+Add net Net-(D34-A).
+Connected D34 pin 2 to Net-(D34-A).
+Added D35 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D35.
+Changed D35 value from 1N4148W to D.
+Updated D35 symbol association from  to /c7f7df24-a807-46df-b3d4-a8be395ffeca.
+Updated D39 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D38-A).
+Connected D38 pin 2 to Net-(D38-A).
+Added D39 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D39.
+Changed D39 value from 1N4148W to D.
+Updated D39 symbol association from  to /0aef72e7-f0d0-428f-8404-55982f3d7d31.
+Updated D39 fields.
+Updated D39 sheetname to '/'.
+Updated D39 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D38 pin 1 to ROW2.
+Connected D39 pin 1 to ROW2.
+Add net Net-(D39-A).
+Connected D39 pin 2 to Net-(D39-A).
+Added D40 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D40.
+Changed D40 value from 1N4148W to D.
+Updated D40 symbol association from  to /9b7ad87a-0861-41ff-aa6c-2f7c443df26a.
+Updated D40 fields.
+Connected D37 pin 1 to ROW2.
+Changed D37 value from 1N4148W to D.
+Updated D37 symbol association from  to /a412ba36-edf1-4193-911b-6940fdb19c32.
+Updated D37 fields.
+Updated D37 sheetname to '/'.
+Updated D37 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D37 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D37-A).
+Connected D37 pin 2 to Net-(D37-A).
+Updated D33 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D38 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D38.
+Changed D38 value from 1N4148W to D.
+Updated D38 symbol association from  to /7ec3ee3b-35bc-403e-b63a-35d9c147eeaa.
+Updated D38 fields.
+Updated D38 sheetname to '/'.
+Updated D38 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D38 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D29 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D28-A).
+Connected D28 pin 2 to Net-(D28-A).
+Connected D28 pin 1 to ROW1.
+Added D29 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D29.
+Changed D29 value from 1N4148W to D.
+Updated D29 symbol association from  to /66750aa2-2228-45cd-a11d-6729ec113435.
+Updated D29 fields.
+Updated D29 sheetname to '/'.
+Updated D28 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D29 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D29-A).
+Connected D29 pin 2 to Net-(D29-A).
+Connected D29 pin 1 to ROW1.
+Added D30 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D30.
+Changed D30 value from 1N4148W to D.
+Updated D30 symbol association from  to /b9b73416-8fa0-4722-8bb0-1a2b7c72afa2.
+Connected D27 pin 2 to Net-(D27-A).
+Added D27 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D27.
+Changed D27 value from 1N4148W to D.
+Updated D27 symbol association from  to /026147ae-97ac-4b54-95e4-6f08d3e045e9.
+Updated D27 fields.
+Updated D27 sheetname to '/'.
+Updated D27 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D27 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D27-A).
+Updated D30 fields.
+Connected D27 pin 1 to ROW1.
+Added D28 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D28.
+Changed D28 value from 1N4148W to D.
+Updated D28 symbol association from  to /815f4435-918e-4ed5-a55a-977f6f0da368.
+Updated D28 fields.
+Updated D28 sheetname to '/'.
+Updated D28 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D32-A).
+Added D32 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D32.
+Changed D32 value from 1N4148W to D.
+Updated D32 symbol association from  to /bdc5a7e1-7b0a-4c34-b4b8-db706731ae66.
+Updated D32 fields.
+Updated D32 sheetname to '/'.
+Updated D32 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D32 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D32 pin 1 to ROW2.
+Connected D31 pin 2 to Net-(D31-A).
+Connected D32 pin 2 to Net-(D32-A).
+Added D33 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D33.
+Changed D33 value from 1N4148W to D.
+Updated D33 symbol association from  to /0d2d35ff-6307-400f-9a7b-bfadcba3e970.
+Updated D33 fields.
+Updated D33 sheetname to '/'.
+Updated D33 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed D31 value from 1N4148W to D.
+Updated D30 sheetname to '/'.
+Updated D30 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D30 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D30 pin 1 to ROW1.
+Add net Net-(D30-A).
+Connected D30 pin 2 to Net-(D30-A).
+Added D31 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D31.
+Updated D40 sheetname to '/'.
+Updated D31 symbol association from  to /128765ad-8598-4207-a162-db6c2efce2d6.
+Updated D31 fields.
+Updated D31 sheetname to '/'.
+Updated D31 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D31 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net ROW2.
+Connected D31 pin 1 to ROW2.
+Add net Net-(D31-A).
+Connected D49 pin 2 to Net-(D49-A).
+Added D49 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D49.
+Changed D49 value from 1N4148W to D.
+Updated D49 symbol association from  to /bdab9278-651c-4a2a-8b7e-4f385c9b406b.
+Updated D49 fields.
+Updated D49 sheetname to '/'.
+Updated D49 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D49 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D49-A).
+Connected D48 pin 1 to ROW3.
+Connected D49 pin 1 to ROW3.
+Added D50 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D50.
+Changed D50 value from 1N4148W to D.
+Updated D50 symbol association from  to /a1332929-6f42-49ac-b8cb-f35c59e68aa2.
+Updated D50 fields.
+Updated D50 sheetname to '/'.
+Updated D50 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to D48.
+Updated D47 symbol association from  to /dce2156e-06a8-49c3-b05f-bc900f5277d9.
+Updated D47 fields.
+Updated D47 sheetname to '/'.
+Updated D47 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D47 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D47 pin 1 to ROW3.
+Add net Net-(D47-A).
+Connected D47 pin 2 to Net-(D47-A).
+Added D48 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D50 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Changed D48 value from 1N4148W to D.
+Updated D48 symbol association from  to /0fff7dd9-1c6a-45fd-a63d-b9651281f9fc.
+Updated D48 fields.
+Updated D48 sheetname to '/'.
+Updated D48 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D48 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D48-A).
+Connected D48 pin 2 to Net-(D48-A).
+Changed D53 value from 1N4148W to D.
+Updated D52 fields.
+Updated D52 sheetname to '/'.
+Updated D52 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D52 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D52-A).
+Connected D52 pin 2 to Net-(D52-A).
+Connected D52 pin 1 to ROW3.
+Added D53 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D53.
+Updated D52 symbol association from  to /e69aa1b7-b68a-4d92-8938-2ed4d2f6c29f.
+Updated D53 symbol association from  to /a4291e0e-2ece-407a-82de-8110ea2c6a77.
+Updated D53 fields.
+Updated D53 sheetname to '/'.
+Updated D53 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D53 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D53-A).
+Connected R2 pin 1 to /SCL.
+Connected D53 pin 1 to ROW3.
+Updated D51 sheetname to '/'.
+Add net Net-(D50-A).
+Connected D50 pin 2 to Net-(D50-A).
+Connected D50 pin 1 to ROW3.
+Added D51 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D51.
+Changed D51 value from 1N4148W to D.
+Updated D51 symbol association from  to /c2e1feb8-3086-45cf-b9d2-5ca59911994c.
+Updated D51 fields.
+Changed D47 value from 1N4148W to D.
+Updated D51 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D51 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D51 pin 1 to ROW3.
+Add net Net-(D51-A).
+Connected D51 pin 2 to Net-(D51-A).
+Added D52 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D52.
+Changed D52 value from 1N4148W to D.
+Changed REF** reference designator to D43.
+Updated D42 symbol association from  to /73aba78f-61b4-4f28-9e10-81e53004cce1.
+Updated D42 fields.
+Updated D42 sheetname to '/'.
+Updated D42 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D42 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D42 pin 1 to ROW2.
+Add net Net-(D42-A).
+Connected D42 pin 2 to Net-(D42-A).
+Added D43 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed D42 value from 1N4148W to D.
+Changed D43 value from 1N4148W to D.
+Updated D43 symbol association from  to /c9496019-24ea-400c-969f-12a99669bf37.
+Updated D43 fields.
+Updated D43 sheetname to '/'.
+Updated D43 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D43 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D43-A).
+Connected D43 pin 2 to Net-(D43-A).
+Updated D41 fields.
+Updated D40 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D40 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D40-A).
+Connected D40 pin 2 to Net-(D40-A).
+Connected D40 pin 1 to ROW2.
+Added D41 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D41.
+Changed D41 value from 1N4148W to D.
+Updated D41 symbol association from  to /5a9e6461-2948-494c-8efc-939e940381c0.
+Connected D43 pin 1 to ROW2.
+Updated D41 sheetname to '/'.
+Updated D41 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D41 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D41 pin 1 to ROW2.
+Add net Net-(D41-A).
+Connected D41 pin 2 to Net-(D41-A).
+Added D42 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D42.
+Updated D46 fields.
+Updated D45 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net ROW3.
+Connected D45 pin 1 to ROW3.
+Add net Net-(D45-A).
+Connected D45 pin 2 to Net-(D45-A).
+Added D46 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D46.
+Changed D46 value from 1N4148W to D.
+Updated D46 symbol association from  to /0bc2a092-238e-4a3d-ad6d-e1222d0f2933.
+Updated D45 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D46 sheetname to '/'.
+Updated D46 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D46 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D46 pin 1 to ROW3.
+Add net Net-(D46-A).
+Connected D46 pin 2 to Net-(D46-A).
+Added D47 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D47.
+Connected D44 pin 1 to ROW2.
+Added D44 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D44.
+Changed D44 value from 1N4148W to D.
+Updated D44 symbol association from  to /bb12b02c-0ab2-431b-850d-55d6a0dd5adb.
+Updated D44 fields.
+Updated D44 sheetname to '/'.
+Updated D44 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D44 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D26 pin 2 to Net-(D26-A).
+Add net Net-(D44-A).
+Connected D44 pin 2 to Net-(D44-A).
+Added D45 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D45.
+Changed D45 value from 1N4148W to D.
+Updated D45 symbol association from  to /c2ea90fe-187b-4adc-adfd-e43ef4378591.
+Updated D45 fields.
+Updated D45 sheetname to '/'.
+Changed D9 value from 1N4148W to D.
+Updated D8 fields.
+Updated D8 sheetname to '/'.
+Updated D8 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D8 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D8-A).
+Connected D8 pin 2 to Net-(D8-A).
+Connected D8 pin 1 to ROW0.
+Added D9 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D9.
+Updated D8 symbol association from  to /3e4b76b3-5036-4230-894a-a90064199151.
+Updated D9 symbol association from  to /6020b0b5-dcaa-4e98-9a49-d370d1ef289e.
+Updated D9 fields.
+Updated D9 sheetname to '/'.
+Updated D9 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D9 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D9-A).
+Connected D9 pin 2 to Net-(D9-A).
+Connected D9 pin 1 to ROW0.
+Updated D7 sheetname to '/'.
+Updated D6 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D6-A).
+Connected D6 pin 2 to Net-(D6-A).
+Connected D6 pin 1 to ROW0.
+Added D7 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D7.
+Changed D7 value from 1N4148W to D.
+Updated D7 symbol association from  to /ee0ace56-a416-4027-9b2b-2d3ce8d36264.
+Updated D7 fields.
+Added D10 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D7 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D7 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D7-A).
+Connected D7 pin 2 to Net-(D7-A).
+Connected D7 pin 1 to ROW0.
+Added D8 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D8.
+Changed D8 value from 1N4148W to D.
+Updated D12 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D11-A).
+Connected D11 pin 2 to Net-(D11-A).
+Connected D11 pin 1 to ROW0.
+Added D12 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D12.
+Changed D12 value from 1N4148W to D.
+Updated D12 symbol association from  to /a8d39a79-037c-423d-83f2-66bae51c678d.
+Updated D12 fields.
+Updated D12 sheetname to '/'.
+Updated D11 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D12 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D12 pin 1 to ROW0.
+Add net Net-(D12-A).
+Connected D12 pin 2 to Net-(D12-A).
+Added D13 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D13.
+Changed D13 value from 1N4148W to D.
+Updated D13 symbol association from  to /450ae1f5-b25c-449b-89da-1d5dbd41a667.
+Add net Net-(D10-A).
+Changed REF** reference designator to D10.
+Changed D10 value from 1N4148W to D.
+Updated D10 symbol association from  to /639f2d12-118a-403b-9b8e-5d038e121b47.
+Updated D10 fields.
+Updated D10 sheetname to '/'.
+Updated D10 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D10 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D10 pin 1 to ROW0.
+Updated D6 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D10 pin 2 to Net-(D10-A).
+Added D11 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D11.
+Changed D11 value from 1N4148W to D.
+Updated D11 symbol association from  to /f59486b7-bb13-49b4-a809-1097af4e43c6.
+Updated D11 fields.
+Updated D11 sheetname to '/'.
+Updated D11 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D2 fields.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net ROW0.
+Connected D1 pin 1 to ROW0.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added D2 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D2.
+Changed D2 value from 1N4148W to D.
+Updated D2 symbol association from  to /5f2aab6d-c8c9-4667-ac02-52f0221afadd.
+Updated D1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D2 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Connected D2 pin 1 to ROW0.
+Added D3 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D3.
+Connected C1 pin 2 to /+3V3.
+Added C1 (footprint 'ScottoKeebs_Components:Capacitor_0603').
+Changed REF** reference designator to C1.
+Changed C1 value from Capacitor_0603 to 0.1u.
+Updated C1 symbol association from  to /888fb482-3efc-42de-be12-fc118d164809.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net /+3V3.
+Changed D3 value from 1N4148W to D.
+Add net /GND.
+Connected C1 pin 1 to /GND.
+Added D1 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D1.
+Changed D1 value from 1N4148W to D.
+Updated D1 symbol association from  to /c599c4b0-585c-4278-9a99-5921eedcd927.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Add net Net-(D5-A).
+Connected D4 pin 2 to Net-(D4-A).
+Added D5 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D5.
+Changed D5 value from 1N4148W to D.
+Updated D5 symbol association from  to /01814e2d-b93c-4d7d-af1a-2a0128af2cfb.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D5 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D4-A).
+Connected D5 pin 2 to Net-(D5-A).
+Connected D5 pin 1 to ROW0.
+Added D6 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D6.
+Changed D6 value from 1N4148W to D.
+Updated D6 symbol association from  to /79f9d345-4071-4d9e-8eaa-0d5c45217639.
+Updated D6 fields.
+Updated D6 sheetname to '/'.
+Added D4 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D3 symbol association from  to /11e9b783-91d6-4a90-bac9-d0e796ebbac7.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D3 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D3-A).
+Connected D3 pin 2 to Net-(D3-A).
+Connected D3 pin 1 to ROW0.
+Updated D13 fields.
+Changed REF** reference designator to D4.
+Changed D4 value from 1N4148W to D.
+Updated D4 symbol association from  to /3c2f8c57-2e15-42c4-9701-52b6959f9e92.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D4 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D4 pin 1 to ROW0.
+Add net Net-(D22-A).
+Connected D21 pin 1 to ROW1.
+Added D22 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D22.
+Changed D22 value from 1N4148W to D.
+Updated D22 symbol association from  to /b501d78b-dcbc-40c2-8a26-1de01726bc63.
+Updated D22 fields.
+Updated D22 sheetname to '/'.
+Updated D22 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D22 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D21 pin 2 to Net-(D21-A).
+Connected D22 pin 2 to Net-(D22-A).
+Connected D22 pin 1 to ROW1.
+Added D23 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D23.
+Changed D23 value from 1N4148W to D.
+Updated D23 symbol association from  to /6dc2fcf5-646a-4833-9074-d253e5255577.
+Updated D23 fields.
+Updated D23 sheetname to '/'.
+Added D21 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed D20 value from 1N4148W to D.
+Updated D20 symbol association from  to /c00e6bda-32ef-495a-b959-a09a1190d9dd.
+Updated D20 fields.
+Updated D20 sheetname to '/'.
+Updated D20 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D20 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D20-A).
+Connected D20 pin 2 to Net-(D20-A).
+Connected D20 pin 1 to ROW1.
+Updated D23 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to D21.
+Changed D21 value from 1N4148W to D.
+Updated D21 symbol association from  to /c9d518d7-c604-436d-adb9-699ec755f245.
+Updated D21 fields.
+Updated D21 sheetname to '/'.
+Updated D21 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D21 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D21-A).
+Changed REF** reference designator to D26.
+Updated D25 symbol association from  to /8766f7ae-4092-41b2-b5a4-712d4bfcab89.
+Updated D25 fields.
+Updated D25 sheetname to '/'.
+Updated D25 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D25 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D25-A).
+Connected D25 pin 2 to Net-(D25-A).
+Connected D25 pin 1 to ROW1.
+Added D26 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed D25 value from 1N4148W to D.
+Changed D26 value from 1N4148W to D.
+Updated D26 symbol association from  to /25a8b3e3-db0d-49de-b856-418ab56b9cef.
+Updated D26 fields.
+Updated D26 sheetname to '/'.
+Updated D26 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D26 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D26 pin 1 to ROW1.
+Add net Net-(D26-A).
+Updated D24 fields.
+Updated D23 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D23-A).
+Connected D23 pin 2 to Net-(D23-A).
+Connected D23 pin 1 to ROW1.
+Added D24 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D24.
+Changed D24 value from 1N4148W to D.
+Updated D24 symbol association from  to /0c579d54-789f-459b-902f-3c46d29153fc.
+Changed REF** reference designator to D20.
+Updated D24 sheetname to '/'.
+Updated D24 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D24 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D24 pin 1 to ROW1.
+Add net Net-(D24-A).
+Connected D24 pin 2 to Net-(D24-A).
+Added D25 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D25.
+Added D16 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed D15 value from 1N4148W to D.
+Updated D15 symbol association from  to /06f1db73-a5e3-436b-a428-3fdec01efbdc.
+Updated D15 fields.
+Updated D15 sheetname to '/'.
+Updated D15 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D15 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D15-A).
+Connected D15 pin 2 to Net-(D15-A).
+Connected D15 pin 1 to ROW0.
+Changed REF** reference designator to D15.
+Changed REF** reference designator to D16.
+Changed D16 value from 1N4148W to D.
+Updated D16 symbol association from  to /b5568bbd-d318-48cb-acd2-d10adf05fbf7.
+Updated D16 fields.
+Updated D16 sheetname to '/'.
+Updated D16 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D16 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D16-A).
+Updated D14 symbol association from  to /809be7b9-12a1-4c11-82ab-b1bf44dc2606.
+Updated D13 sheetname to '/'.
+Updated D13 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D13 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D13 pin 1 to ROW0.
+Add net Net-(D13-A).
+Connected D13 pin 2 to Net-(D13-A).
+Added D14 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D14.
+Changed D14 value from 1N4148W to D.
+Connected D16 pin 2 to Net-(D16-A).
+Updated D14 fields.
+Updated D14 sheetname to '/'.
+Updated D14 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D14 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D14 pin 1 to ROW0.
+Add net Net-(D14-A).
+Connected D14 pin 2 to Net-(D14-A).
+Added D15 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D19 symbol association from  to /a22aaff3-b3e7-4619-acf1-5d56cdc1b23a.
+Updated D18 sheetname to '/'.
+Updated D18 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D18 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D18 pin 1 to ROW1.
+Add net Net-(D18-A).
+Connected D18 pin 2 to Net-(D18-A).
+Added D19 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D19.
+Changed D19 value from 1N4148W to D.
+Updated D18 fields.
+Updated D19 fields.
+Updated D19 sheetname to '/'.
+Updated D19 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D19 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D19-A).
+Connected D19 pin 2 to Net-(D19-A).
+Connected D19 pin 1 to ROW1.
+Added D20 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D17 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D16 pin 1 to ROW0.
+Added D17 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D17.
+Changed D17 value from 1N4148W to D.
+Updated D17 symbol association from  to /fcabad76-cf82-40c7-8cf5-da1af84dbd34.
+Updated D17 fields.
+Updated D17 sheetname to '/'.
+Updated D17 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D53 pin 2 to Net-(D53-A).
+Add net Net-(D17-A).
+Connected D17 pin 2 to Net-(D17-A).
+Add net ROW1.
+Connected D17 pin 1 to ROW1.
+Added D18 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D18.
+Changed D18 value from 1N4148W to D.
+Updated D18 symbol association from  to /3034f64c-e501-40e5-8c5f-7f77274d3714.
+Changed REF** reference designator to LED2.
+Updated LED1 fields.
+Updated LED1 sheetname to '/'.
+Updated LED1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED1-A).
+Connected LED1 pin 2 to Net-(LED1-A).
+Add net /BL_NEG.
+Connected LED1 pin 1 to /BL_NEG.
+Added LED2 (footprint 'ScottoKeebs_Components:LED_1206').
+Updated LED1 symbol association from  to /0b07ea4b-5339-4c27-acd7-ff8bc997edc4.
+Changed LED2 value from LED_1206 to LED.
+Updated LED2 symbol association from  to /e875e039-fa24-40bd-aa2d-505ef8ca90bf.
+Updated LED2 fields.
+Updated LED2 sheetname to '/'.
+Updated LED2 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED2-A).
+Connected LED2 pin 2 to Net-(LED2-A).
+Updated JBAT1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D87-A).
+Connected D87 pin 2 to Net-(D87-A).
+Connected D87 pin 1 to ROW7.
+Added JBAT1 (footprint 'ScottoKeebs_Components:Connector_1x02_JST-PH').
+Changed REF** reference designator to JBAT1.
+Changed JBAT1 value from Connector_1x02_JST-PH to JST-PH.
+Updated JBAT1 symbol association from  to /234d2732-657f-4aca-a6d4-160e4362b6cc.
+Updated JBAT1 fields.
+Updated JBAT1 sheetname to '/'.
+Connected LED2 pin 1 to /BL_NEG.
+Updated JBAT1 footprint filters to 'Connector*:*_1x??_*'.
+Add net unconnected-(JBAT1-Pin_2-Pad2).
+Connected JBAT1 pin 2 to unconnected-(JBAT1-Pin_2-Pad2).
+Add net /VBAT_RAW.
+Connected JBAT1 pin 1 to /VBAT_RAW.
+Added LED1 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED1.
+Changed LED1 value from LED_1206 to LED.
+Updated LED5 sheetname to '/'.
+Updated LED4 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected LED4 pin 1 to /BL_NEG.
+Add net Net-(LED4-A).
+Connected LED4 pin 2 to Net-(LED4-A).
+Added LED5 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED5.
+Changed LED5 value from LED_1206 to LED.
+Updated LED5 symbol association from  to /ff416372-ebc8-43a8-bf8c-06df62342e81.
+Updated LED5 fields.
+Updated LED4 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED5 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED5 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED5-A).
+Connected LED5 pin 2 to Net-(LED5-A).
+Connected LED5 pin 1 to /BL_NEG.
+Added LED6 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED6.
+Changed LED6 value from LED_1206 to LED.
+Connected LED3 pin 1 to /BL_NEG.
+Added LED3 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED3.
+Changed LED3 value from LED_1206 to LED.
+Updated LED3 symbol association from  to /46f91446-8ce1-4010-a271-ce1c9fa07e80.
+Updated LED3 fields.
+Updated LED3 sheetname to '/'.
+Updated LED3 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED3 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Updated D87 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(LED3-A).
+Connected LED3 pin 2 to Net-(LED3-A).
+Added LED4 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED4.
+Changed LED4 value from LED_1206 to LED.
+Updated LED4 symbol association from  to /8bb7ef75-9414-40b8-9d42-7ed0fa7e5cce.
+Updated LED4 fields.
+Updated LED4 sheetname to '/'.
+Updated D83 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D82 pin 1 to ROW6.
+Add net Net-(D82-A).
+Connected D82 pin 2 to Net-(D82-A).
+Added D83 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D83.
+Changed D83 value from 1N4148W to D.
+Updated D83 symbol association from  to /fdeebfcb-29be-4458-ad69-b3325e803602.
+Updated D83 fields.
+Updated D83 sheetname to '/'.
+Add net ROW6.
+Updated D83 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D83-A).
+Connected D83 pin 2 to Net-(D83-A).
+Connected D83 pin 1 to ROW6.
+Added D84 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D84.
+Changed D84 value from 1N4148W to D.
+Updated D84 symbol association from  to /5352bf04-f976-472c-99fe-038f6905e88f.
+Connected D81 pin 2 to Net-(D81-A).
+Changed REF** reference designator to D81.
+Changed D81 value from 1N4148W to D.
+Added D54 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D81 fields.
+Updated D81 sheetname to '/'.
+Updated D81 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D81 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D81 pin 1 to ROW5.
+Add net Net-(D81-A).
+Updated D84 fields.
+Added D82 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D82.
+Changed D82 value from 1N4148W to D.
+Updated D82 symbol association from  to /8995a117-f878-4917-9cf5-9f785d236c06.
+Updated D82 fields.
+Updated D82 sheetname to '/'.
+Updated D82 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D82 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D86 pin 2 to Net-(D86-A).
+Added D86 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D86.
+Changed D86 value from 1N4148W to D.
+Updated D86 symbol association from  to /80f894fd-3c09-4cc4-ae85-760e483af835.
+Updated D86 fields.
+Updated D86 sheetname to '/'.
+Updated D86 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D86 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D86-A).
+Connected D85 pin 2 to Net-(D85-A).
+Connected D86 pin 1 to ROW7.
+Added D87 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D87.
+Changed D87 value from 1N4148W to D.
+Updated D87 symbol association from  to /082060c1-7836-45ed-99fd-1ee82ddf93a3.
+Updated D87 fields.
+Updated D87 sheetname to '/'.
+Updated D87 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed D85 value from 1N4148W to D.
+Updated D84 sheetname to '/'.
+Updated D84 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D84 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D84-A).
+Connected D84 pin 2 to Net-(D84-A).
+Connected D84 pin 1 to ROW6.
+Added D85 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D85.
+Updated LED6 symbol association from  to /30583d58-7bca-4c50-b96d-df8fdea7031c.
+Updated D85 symbol association from  to /5772dadd-2a55-4ba0-bef9-decea9a0c6e6.
+Updated D85 fields.
+Updated D85 sheetname to '/'.
+Updated D85 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D85 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net ROW7.
+Connected D85 pin 1 to ROW7.
+Add net Net-(D85-A).
+Connected LED15 pin 1 to /BL_NEG.
+Connected LED14 pin 2 to Net-(LED14-A).
+Connected LED14 pin 1 to /BL_NEG.
+Added LED15 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED15.
+Changed LED15 value from LED_1206 to LED.
+Updated LED15 symbol association from  to /ee254408-b83c-40a5-a04b-adef04491b29.
+Updated LED15 fields.
+Updated LED15 sheetname to '/'.
+Updated LED15 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED14-A).
+Add net Net-(LED15-A).
+Connected LED15 pin 2 to Net-(LED15-A).
+Added LED16 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED16.
+Changed LED16 value from LED_1206 to LED.
+Updated LED16 symbol association from  to /e930cb32-3635-40cb-892a-4d5950d4be2c.
+Updated LED16 fields.
+Updated LED16 sheetname to '/'.
+Connected LED13 pin 1 to /BL_NEG.
+Changed REF** reference designator to LED13.
+Changed LED13 value from LED_1206 to LED.
+Updated LED13 symbol association from  to /5eb32081-3f02-43f9-8e0b-81f9985c3a14.
+Updated LED13 fields.
+Updated LED13 sheetname to '/'.
+Updated LED13 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED13 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED13-A).
+Connected LED13 pin 2 to Net-(LED13-A).
+Updated LED16 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added LED14 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED14.
+Changed LED14 value from LED_1206 to LED.
+Updated LED14 symbol association from  to /b138477d-7c44-4b29-b65b-1e518d5ca8dc.
+Updated LED14 fields.
+Updated LED14 sheetname to '/'.
+Updated LED14 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED14 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Changed REF** reference designator to R2.
+Updated R1 symbol association from  to /64142287-e0cf-42da-a3c8-a095225ce265.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /SDA.
+Connected R1 pin 1 to /SDA.
+Connected R1 pin 2 to /+3V3.
+Added R2 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed R1 value from Resistor_0805 to 4.7k.
+Changed R2 value from Resistor_0805 to 4.7k.
+Updated R2 symbol association from  to /64120cdd-2717-4298-92f7-154674c6dc82.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to /+3V3.
+Add net /SCL.
+Updated Q1 fields.
+Updated LED16 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED16-A).
+Connected LED16 pin 2 to Net-(LED16-A).
+Connected LED16 pin 1 to /BL_NEG.
+Added Q1 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to Q1.
+Changed Q1 value from SOT-23 to NMOS.
+Updated Q1 symbol association from  to /fd341067-976c-4775-ae24-3f21655c8c5c.
+Added LED13 (footprint 'ScottoKeebs_Components:LED_1206').
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected Q1 pin 2 to /BL_NEG.
+Add net /BL_GATE.
+Connected Q1 pin 1 to /BL_GATE.
+Connected Q1 pin 3 to /GND.
+Added R1 (footprint 'ScottoKeebs_Components:Resistor_0805').
+Changed REF** reference designator to R1.
+Add net Net-(LED8-A).
+Added LED8 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED8.
+Changed LED8 value from LED_1206 to LED.
+Updated LED8 symbol association from  to /b85f197a-d7c5-4931-be40-eb8e933ba112.
+Updated LED8 fields.
+Updated LED8 sheetname to '/'.
+Updated LED8 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED8 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected LED8 pin 1 to /BL_NEG.
+Connected LED7 pin 1 to /BL_NEG.
+Connected LED8 pin 2 to Net-(LED8-A).
+Added LED9 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED9.
+Changed LED9 value from LED_1206 to LED.
+Updated LED9 symbol association from  to /0915f49d-9475-4465-bca4-365b7cc0bb51.
+Updated LED9 fields.
+Updated LED9 sheetname to '/'.
+Updated LED9 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to LED7.
+Updated LED6 fields.
+Updated LED6 sheetname to '/'.
+Updated LED6 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED6 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED6-A).
+Connected LED6 pin 2 to Net-(LED6-A).
+Connected LED6 pin 1 to /BL_NEG.
+Added LED7 (footprint 'ScottoKeebs_Components:LED_1206').
+Updated LED9 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Changed LED7 value from LED_1206 to LED.
+Updated LED7 symbol association from  to /bc542c8b-83f6-4e99-9b23-1a72b084c3fa.
+Updated LED7 fields.
+Updated LED7 sheetname to '/'.
+Updated LED7 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED7 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED7-A).
+Connected LED7 pin 2 to Net-(LED7-A).
+Changed LED12 value from LED_1206 to LED.
+Updated LED11 fields.
+Updated LED11 sheetname to '/'.
+Updated LED11 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED11 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED11-A).
+Connected LED11 pin 2 to Net-(LED11-A).
+Connected LED11 pin 1 to /BL_NEG.
+Added LED12 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED12.
+Updated LED11 symbol association from  to /820b9631-317c-48fd-a37c-8a7ad9cec599.
+Updated LED12 symbol association from  to /a28227ae-84e0-482b-92ff-f9507e33afa5.
+Updated LED12 fields.
+Updated LED12 sheetname to '/'.
+Updated LED12 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED12 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected LED12 pin 1 to /BL_NEG.
+Add net Net-(LED12-A).
+Connected LED12 pin 2 to Net-(LED12-A).
+Updated LED10 sheetname to '/'.
+Add net Net-(LED9-A).
+Connected LED9 pin 2 to Net-(LED9-A).
+Connected LED9 pin 1 to /BL_NEG.
+Added LED10 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED10.
+Changed LED10 value from LED_1206 to LED.
+Updated LED10 symbol association from  to /5eee0c0f-f9fd-4b07-bbdc-6b688c9ebe21.
+Updated LED10 fields.
+Updated D81 symbol association from  to /546e11b2-20ce-4684-98c4-c7ec4ff5d630.
+Updated LED10 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated LED10 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(LED10-A).
+Connected LED10 pin 2 to Net-(LED10-A).
+Connected LED10 pin 1 to /BL_NEG.
+Added LED11 (footprint 'ScottoKeebs_Components:LED_1206').
+Changed REF** reference designator to LED11.
+Changed LED11 value from LED_1206 to LED.
+Updated D63 fields.
+Updated D62 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D62 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D62 pin 1 to ROW4.
+Add net Net-(D62-A).
+Connected D62 pin 2 to Net-(D62-A).
+Added D63 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D63.
+Changed D63 value from 1N4148W to D.
+Updated D63 symbol association from  to /a2143b04-dd34-4752-a196-df7c83d09183.
+Updated D62 sheetname to '/'.
+Updated D63 sheetname to '/'.
+Updated D63 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D63 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D63-A).
+Connected D63 pin 2 to Net-(D63-A).
+Connected D63 pin 1 to ROW4.
+Added D64 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D64.
+Updated D61 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D60 pin 2 to Net-(D60-A).
+Connected D60 pin 1 to ROW4.
+Added D61 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D61.
+Changed D61 value from 1N4148W to D.
+Updated D61 symbol association from  to /2081ae9b-1956-453d-9ac9-6da4e146d063.
+Updated D61 fields.
+Updated D61 sheetname to '/'.
+Updated D61 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed D64 value from 1N4148W to D.
+Add net Net-(D61-A).
+Connected D61 pin 2 to Net-(D61-A).
+Connected D61 pin 1 to ROW4.
+Added D62 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D62.
+Changed D62 value from 1N4148W to D.
+Updated D62 symbol association from  to /558d9e30-b4b8-4cf5-8578-98fbf2c42f83.
+Updated D62 fields.
+Connected D66 pin 2 to Net-(D66-A).
+Added D66 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D66.
+Changed D66 value from 1N4148W to D.
+Updated D66 symbol association from  to /293559d8-0ef6-49c3-a6f9-592989a8810f.
+Updated D66 fields.
+Updated D66 sheetname to '/'.
+Updated D66 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D66 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D66-A).
+Connected D65 pin 1 to ROW4.
+Connected D66 pin 1 to ROW4.
+Added D67 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D67.
+Changed D67 value from 1N4148W to D.
+Updated D67 symbol association from  to /e19f5395-5656-49d7-8ec7-787865d3d484.
+Updated D67 fields.
+Added D81 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D67 sheetfile to 'tkl_low_profile.kicad_sch'.
+Changed REF** reference designator to D65.
+Updated D64 symbol association from  to /d7cdc573-3eeb-4aab-a21e-9004f00c170b.
+Updated D64 fields.
+Updated D64 sheetname to '/'.
+Updated D64 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D64 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D64-A).
+Connected D64 pin 2 to Net-(D64-A).
+Connected D64 pin 1 to ROW4.
+Added D65 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Add net Net-(D60-A).
+Changed D65 value from 1N4148W to D.
+Updated D65 symbol association from  to /f042d3ce-a6ed-4cec-b477-a2b3fe8bc5b5.
+Updated D65 fields.
+Updated D65 sheetname to '/'.
+Updated D65 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D65 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D65-A).
+Connected D65 pin 2 to Net-(D65-A).
+Updated D56 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D55-A).
+Connected D55 pin 2 to Net-(D55-A).
+Added D56 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D56.
+Changed D56 value from 1N4148W to D.
+Updated D56 symbol association from  to /fe7da41a-5fd5-4438-ae99-d20e94a593a0.
+Updated D56 fields.
+Updated D56 sheetname to '/'.
+Updated D56 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D55 pin 1 to ROW3.
+Connected D56 pin 1 to ROW3.
+Add net Net-(D56-A).
+Connected D56 pin 2 to Net-(D56-A).
+Added D57 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D57.
+Changed D57 value from 1N4148W to D.
+Updated D57 symbol association from  to /807dfeee-be55-4e5e-8b93-91d27fbf0492.
+Updated D57 fields.
+Connected D54 pin 2 to Net-(D54-A).
+Changed REF** reference designator to D54.
+Changed D54 value from 1N4148W to D.
+Updated D54 symbol association from  to /22ff9420-48ca-4c6b-a8e1-f4459241b1c5.
+Updated D54 fields.
+Updated D54 sheetname to '/'.
+Updated D54 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D54 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D54 pin 1 to ROW3.
+Add net Net-(D54-A).
+Updated D57 sheetname to '/'.
+Added D55 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D55.
+Changed D55 value from 1N4148W to D.
+Updated D55 symbol association from  to /3bbcbdfc-54d8-4829-a057-7231b20b9036.
+Updated D55 fields.
+Updated D55 sheetname to '/'.
+Updated D55 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D55 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D59 pin 1 to ROW4.
+Changed REF** reference designator to D59.
+Changed D59 value from 1N4148W to D.
+Updated D59 symbol association from  to /cb1aa1f7-7f2a-4a2a-9e41-3b260adc47f8.
+Updated D59 fields.
+Updated D59 sheetname to '/'.
+Updated D59 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D59 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D59-A).
+Connected D59 pin 2 to Net-(D59-A).
+Added D59 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Added D60 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D60.
+Changed D60 value from 1N4148W to D.
+Updated D60 symbol association from  to /5744c80d-e6d5-4bc3-9fd9-664dfe13838c.
+Updated D60 fields.
+Updated D60 sheetname to '/'.
+Updated D60 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D60 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D58 symbol association from  to /5313e7c4-6051-4c49-8057-8c15af0f9832.
+Updated D57 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D57 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D57-A).
+Connected D57 pin 2 to Net-(D57-A).
+Connected D57 pin 1 to ROW3.
+Added D58 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D58.
+Changed D58 value from 1N4148W to D.
+Updated D67 sheetname to '/'.
+Updated D58 fields.
+Updated D58 sheetname to '/'.
+Updated D58 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D58 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net ROW4.
+Connected D58 pin 1 to ROW4.
+Add net Net-(D58-A).
+Connected D58 pin 2 to Net-(D58-A).
+Updated D76 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D75 pin 2 to Net-(D75-A).
+Connected D75 pin 1 to ROW5.
+Added D76 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D76.
+Changed D76 value from 1N4148W to D.
+Updated D76 symbol association from  to /15a641ad-a8e6-47b2-b267-a2081d090ad3.
+Updated D76 fields.
+Updated D76 sheetname to '/'.
+Updated D76 sheetfile to 'tkl_low_profile.kicad_sch'.
+Add net Net-(D75-A).
+Add net Net-(D76-A).
+Connected D76 pin 2 to Net-(D76-A).
+Connected D76 pin 1 to ROW5.
+Added D77 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D77.
+Changed D77 value from 1N4148W to D.
+Updated D77 symbol association from  to /e81d7d64-e6df-46fd-ac77-f2c00d64c989.
+Updated D77 fields.
+Updated D77 sheetname to '/'.
+Connected D74 pin 1 to ROW5.
+Changed REF** reference designator to D74.
+Changed D74 value from 1N4148W to D.
+Updated D74 symbol association from  to /bf5fe615-65c8-4d58-9d4a-337a4884a2c9.
+Updated D74 fields.
+Updated D74 sheetname to '/'.
+Updated D74 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D74 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D74-A).
+Connected D74 pin 2 to Net-(D74-A).
+Updated D77 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added D75 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D75.
+Changed D75 value from 1N4148W to D.
+Updated D75 symbol association from  to /cfc1dacd-5860-43b7-ab37-fb23d6eb78b2.
+Updated D75 fields.
+Updated D75 sheetname to '/'.
+Updated D75 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D75 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Changed D80 value from 1N4148W to D.
+Updated D79 fields.
+Updated D79 sheetname to '/'.
+Updated D79 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D79 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D79 pin 1 to ROW5.
+Add net Net-(D79-A).
+Connected D79 pin 2 to Net-(D79-A).
+Added D80 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D80.
+Updated D79 symbol association from  to /e97afe1f-5a4b-4e91-8269-f6f800192fac.
+Updated D80 symbol association from  to /9ebf4fcd-459e-47c3-a6f3-77c1c57193fa.
+Updated D80 fields.
+Updated D80 sheetname to '/'.
+Updated D80 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D80 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D80-A).
+Connected D80 pin 2 to Net-(D80-A).
+Connected D80 pin 1 to ROW5.
+Updated D78 sheetname to '/'.
+Updated D77 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D77 pin 1 to ROW5.
+Add net Net-(D77-A).
+Connected D77 pin 2 to Net-(D77-A).
+Added D78 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D78.
+Changed D78 value from 1N4148W to D.
+Updated D78 symbol association from  to /2349e218-bae3-4e61-a1cc-8296009ea387.
+Updated D78 fields.
+Added D74 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Updated D78 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D78 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D78 pin 1 to ROW5.
+Add net Net-(D78-A).
+Connected D78 pin 2 to Net-(D78-A).
+Added D79 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D79.
+Changed D79 value from 1N4148W to D.
+Updated D70 symbol association from  to /6a26c332-6d5c-48a9-ace7-3d9f32ed8c18.
+Updated D69 sheetname to '/'.
+Updated D69 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D69 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D69-A).
+Connected D69 pin 2 to Net-(D69-A).
+Connected D69 pin 1 to ROW4.
+Added D70 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D70.
+Changed D70 value from 1N4148W to D.
+Updated D69 fields.
+Updated D70 fields.
+Updated D70 sheetname to '/'.
+Updated D70 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D70 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D70-A).
+Connected D70 pin 2 to Net-(D70-A).
+Connected D70 pin 1 to ROW4.
+Added D71 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D71.
+Updated D68 sheetfile to 'tkl_low_profile.kicad_sch'.
+Connected D67 pin 1 to ROW4.
+Add net Net-(D67-A).
+Connected D67 pin 2 to Net-(D67-A).
+Added D68 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D68.
+Changed D68 value from 1N4148W to D.
+Updated D68 symbol association from  to /29451d2e-3bd9-4f77-8578-18ea77f809ed.
+Updated D68 fields.
+Updated D68 sheetname to '/'.
+Changed D71 value from 1N4148W to D.
+Updated D68 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D68 pin 1 to ROW4.
+Add net Net-(D68-A).
+Connected D68 pin 2 to Net-(D68-A).
+Added D69 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D69.
+Changed D69 value from 1N4148W to D.
+Updated D69 symbol association from  to /1175c8b1-922d-4515-9b4d-75d48d8042c7.
+Updated D72 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D73 pin 2 to Net-(D73-A).
+Add net Net-(D73-A).
+Connected D73 pin 1 to ROW5.
+Updated D73 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D73 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D73 sheetname to '/'.
+Updated D73 fields.
+Updated D73 symbol association from  to /980f9082-3f3f-46f4-b67a-d13bc200c796.
+Changed D73 value from 1N4148W to D.
+Changed REF** reference designator to D73.
+Added D73 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Connected D72 pin 2 to Net-(D72-A).
+Add net Net-(D72-A).
+Connected D72 pin 1 to ROW5.
+Updated D67 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Changed D72 value from 1N4148W to D.
+Add net Net-(D71-A).
+Connected D71 pin 2 to Net-(D71-A).
+Add net ROW5.
+Connected D71 pin 1 to ROW5.
+Updated D71 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D72 sheetfile to 'tkl_low_profile.kicad_sch'.
+Added D72 (footprint 'ScottoKeebs_Components:Diode_SOD-123').
+Changed REF** reference designator to D72.
+Updated D71 sheetfile to 'tkl_low_profile.kicad_sch'.
+Updated D72 symbol association from  to /c6426723-1214-4dc0-a680-40845913aa6a.
+Updated D71 sheetname to '/'.
+Updated D72 fields.
+Updated D72 sheetname to '/'.
+Updated D71 fields.
+Updated D71 symbol association from  to /1761374a-f3d7-4842-a2d7-fef2d0e13f7d.
+Warning: No net found for component JBAT1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component JBAT1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component SWPWR1 pad MP (no pin MP in symbol).
+Warning: No net found for component SWPWR1 pad MP (no pin MP in symbol).
+Warning: No net found for component SWPWR1 pad MP (no pin MP in symbol).
+Warning: No net found for component SWPWR1 pad MP (no pin MP in symbol).
+
+
+Info: Total warnings: 6, errors: 0.

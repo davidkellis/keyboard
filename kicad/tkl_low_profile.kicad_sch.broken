@@ -91,7 +91,7 @@
 (xy 2.54 -2.54) 
 
 (xy 2.54 -2.54)) (stroke (width 0) (type default)) (fill (type none))) (circle (center 1.143 -1.1938) (radius 0.508) (stroke (width 0) (type default)) (fill (type none))) (pin passive line (at -2.54 2.54 0) (length 0) (name "1" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27))))) (pin passive line (at 2.54 -2.54 180) (length 0) (name "2" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))))
-(symbol "ScottoKeebs:MCU_Nice_Nano_V2"
+(symbol "MCU_Nice_Nano_V2"
 		(pin_names
 			(offset 1.016)
 		)
@@ -643,7 +643,7 @@
 			)
 		)
 	)
-(symbol "Interface_Expansion:MCP23017_SO"
+(symbol "MCP23017_SO"
 		(pin_names
 			(offset 1.016)
 		)
@@ -1236,7 +1236,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Device:R"
+(symbol "R"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1360,7 +1360,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Device:C"
+(symbol "C"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1499,7 +1499,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Device:Q_NMOS"
+(symbol "Q_NMOS"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1742,7 +1742,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "G"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1760,7 +1760,7 @@
 						)
 					)
 				)
-				(number "3"
+				(number "D"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1778,7 +1778,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "S"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1789,7 +1789,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Device:LED"
+(symbol "LED"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1972,7 +1972,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Switch:SW_SPDT"
+(symbol "SW_SPDT"
 		(pin_names
 			(offset 0)
 			(hide yes)
@@ -2148,7 +2148,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "Connector_Generic:Conn_01x02"
+(symbol "Conn_01x02"
 		(pin_names
 			(offset 1.016)
 			(hide yes)
@@ -2290,7 +2290,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "power:GND"
+(symbol "GND"
 		(power)
 		(pin_numbers
 			(hide yes)
@@ -2391,7 +2391,7 @@
 		)
 		(embedded_fonts no)
 	)
-(symbol "power:+3V3"
+(symbol "+3V3"
 		(power)
 		(pin_numbers
 			(hide yes)
@@ -2516,8 +2516,15 @@
 		)
 		(embedded_fonts no)
 	)
-) 
-(symbol (lib_id "ScottoKeebs:MCU_Nice_Nano_V2") (at 262.25 99.05999999999999 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid cd99d643-f551-44c9-b211-a3aaa5e2e2cb)
+)
+(symbol (lib_id "ScottoKeebs:MCU_Nice_Nano_V2") (at 262.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 7f4b06b9-50da-4d36-aada-7d88f0057966)
+(property "Reference" "U1" (at 262.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "Nice_Nano_V2" (at 262.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2" (at 262.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 262.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "U1" ) (unit 1)))))
+(symbol (lib_id "ScottoKeebs:MCU_Nice_Nano_V2") (at 262.25 99.05999999999999 0) (unit 2) (in_bom yes) (on_board yes) (dnp no) (uuid cd99d643-f551-44c9-b211-a3aaa5e2e2cb)
 (property "Reference" "U1" (at 262.25 93.97999999999999 0) (effects (font (size 1.27 1.27))))
 (property "Value" "Nice_Nano_V2" (at 262.25 95.24999999999999 0) (effects (font (size 1.27 1.27)) hide))
 (property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2" (at 262.25 99.05999999999999 0) (effects (font (size 1.27 1.27)) hide))
@@ -2549,7 +2556,7 @@
 (pin "7" (uuid c9058d2d-14a2-46f2-8ca5-90ccf0ec6eaa))
 (pin "8" (uuid 7dbcc746-a037-4127-93c8-4c948f508b32))
 (pin "9" (uuid 8a1777ff-a85f-458b-8b81-7fe1874a57ca))
-(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "U1" ) (unit 1)))))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "U1" ) (unit 2)))))
 (symbol (lib_id "Interface_Expansion:MCP23017_SO") (at 342.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 3cced5b6-fa29-46b9-85ab-9b62dc94d1e1)
 (property "Reference" "U2" (at 342.25 17.78 0) (effects (font (size 1.27 1.27))))
 (property "Value" "MCP23017" (at 342.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
@@ -2656,48 +2663,262 @@
 (pin "1" (uuid 3c8ac0b0-3236-4cde-bc23-121da7150c2d))
 (pin "2" (uuid 49ea57c9-6dac-436b-8df6-46725e7ee97b))
 (instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "JBAT1" ) (unit 1)))))
-(symbol (lib_id "Connector_Generic:Conn_01x02") (at 302.25 175.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 093c502a-cd8b-4448-888a-f04be55e4997)
-(property "Reference" "JLED1" (at 302.25 170.17999999999998 0) (effects (font (size 1.27 1.27))))
-(property "Value" "LED_HARNESS" (at 302.25 171.45 0) (effects (font (size 1.27 1.27)) hide))
-(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x02_P4.2mm_D0.65mm_OD1.7mm_Relief" (at 302.25 175.26 0) (effects (font (size 1.27 1.27)) hide))
-(property "Datasheet" "~" (at 302.25 175.26 0) (effects (font (size 1.27 1.27)) hide))
-(pin "1" (uuid 3dda2637-c0fe-4d58-9600-efa126d652a9))
-(pin "2" (uuid e586ff51-3c3b-42a3-8370-f24ffe4cb338))
-(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "JLED1" ) (unit 1)))))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(sheet_instances (path "/" (page "1"))) 
+(symbol (lib_id "Device:LED") (at 382.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 0b07ea4b-5339-4c27-acd7-ff8bc997edc4)
+(property "Reference" "LED1" (at 382.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 382.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 382.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 382.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 1cbb540f-d603-4246-97b1-f96c5363fcd8))
+(pin "2" (uuid 0c64ac5c-4eac-4fb6-ab7a-654852662e68))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED1" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 390.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 27cc3396-fbdc-44ae-8c05-471515765e2e)
+(property "Reference" "R101" (at 390.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 390.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 390.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 390.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid ca9455a0-d35f-4a1e-b6e7-aff30ebf1fe5))
+(pin "2" (uuid 6ad74286-6c5f-4fd7-a13a-60f9bdf1b205))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R101" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 402.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid e875e039-fa24-40bd-aa2d-505ef8ca90bf)
+(property "Reference" "LED2" (at 402.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 402.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 402.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 402.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 0b45a22a-c16b-4b6d-acd0-bd94f5b8f33d))
+(pin "2" (uuid 965ce722-b646-4745-b853-fca74a969086))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED2" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 410.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid b24efe52-87be-46ff-b486-aa9e04de5312)
+(property "Reference" "R102" (at 410.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 410.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 410.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 410.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid c500fb98-381b-4051-a2d3-ad4e5f05fc89))
+(pin "2" (uuid a75cff67-eed0-4c52-a4a2-c7d41352c8d9))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R102" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 422.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 46f91446-8ce1-4010-a271-ce1c9fa07e80)
+(property "Reference" "LED3" (at 422.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 422.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 422.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 422.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid b9d105fe-cbcc-446f-89cd-e35fdd85cb40))
+(pin "2" (uuid 29cb9917-1b4a-41a6-b184-d536870a26a9))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED3" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 430.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 77bc2a36-5457-4dd2-ba1a-58a63a93a909)
+(property "Reference" "R103" (at 430.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 430.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 430.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 430.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 36913eb5-c205-4997-b9c7-5a2398f1efba))
+(pin "2" (uuid c079395d-e69f-4f6b-82a9-9dfe72db6ef8))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R103" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 442.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 8bb7ef75-9414-40b8-9d42-7ed0fa7e5cce)
+(property "Reference" "LED4" (at 442.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 442.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 442.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 442.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid beee82da-11c0-4835-b97c-0730779d21e3))
+(pin "2" (uuid a1c6e7d0-5bca-4888-b958-a9c62be8f653))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED4" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 450.25 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid acade3cf-6eaa-4ac1-9c9b-8a70b798fe20)
+(property "Reference" "R104" (at 450.25 17.78 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 450.25 19.05 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 450.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 450.25 22.86 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid ab2c897a-b73f-4b44-9175-a5a8555e7b72))
+(pin "2" (uuid 714e6833-0632-44b6-8b4e-eecbf1af0280))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R104" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 382.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid ff416372-ebc8-43a8-bf8c-06df62342e81)
+(property "Reference" "LED5" (at 382.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 382.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 382.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 382.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 2a531107-29dc-42a3-bf1c-595076147cdb))
+(pin "2" (uuid bee7bb27-8c44-467e-9c75-ee03a3f41856))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED5" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 390.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 520cfd58-2542-4698-a039-f062604de17d)
+(property "Reference" "R105" (at 390.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 390.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 390.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 390.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid fc1b4fc0-aac5-4d3d-8cf2-9c36b497b4d4))
+(pin "2" (uuid 2fa98c70-2c9f-4c81-b60e-0b5313b5e4e7))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R105" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 402.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 30583d58-7bca-4c50-b96d-df8fdea7031c)
+(property "Reference" "LED6" (at 402.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 402.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 402.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 402.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 7bbc3020-f30b-4c8c-b0db-a8af867e57b0))
+(pin "2" (uuid 6fd12b4e-c261-4087-ba55-d05c6b672eab))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED6" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 410.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 3814d590-9131-4e3c-ba16-ef7635a23113)
+(property "Reference" "R106" (at 410.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 410.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 410.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 410.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid afd1bf62-7adb-4759-a4fe-d458b966ff9f))
+(pin "2" (uuid 79c0ab92-b09f-4f5e-aa10-35472e4867c8))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R106" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 422.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid bc542c8b-83f6-4e99-9b23-1a72b084c3fa)
+(property "Reference" "LED7" (at 422.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 422.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 422.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 422.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 9e433a3b-d1d9-4f0c-a164-2f156449ac34))
+(pin "2" (uuid 5ddfd432-a066-42a7-bd6c-98b5d419dc0f))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED7" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 430.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid ab29595d-28f9-4107-9832-0f22efcd685d)
+(property "Reference" "R107" (at 430.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 430.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 430.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 430.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 08d1f544-54ab-4adc-bf04-040666c1c84a))
+(pin "2" (uuid e59915d8-b84f-4b21-bbaf-ec569c2f5577))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R107" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 442.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid b85f197a-d7c5-4931-be40-eb8e933ba112)
+(property "Reference" "LED8" (at 442.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 442.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 442.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 442.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid ad3f91b1-eb04-4b87-ae0e-9c9290c57177))
+(pin "2" (uuid 82870743-dd99-46c8-ae96-efce3dbfaead))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED8" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 450.25 35.56 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 6f805162-c443-47d1-8416-9dddd7bac719)
+(property "Reference" "R108" (at 450.25 30.480000000000004 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 450.25 31.750000000000004 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 450.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 450.25 35.56 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid d34f56a4-f831-45d4-8288-9bdca6e56f2c))
+(pin "2" (uuid 0962b2dc-d1e6-4a5b-9b58-2781a8ac12b9))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R108" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 382.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 0915f49d-9475-4465-bca4-365b7cc0bb51)
+(property "Reference" "LED9" (at 382.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 382.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 382.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 382.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid f7bf7a8e-7c05-4ff9-bf09-3d192a6225bd))
+(pin "2" (uuid eaec2eab-60d5-40b5-930f-dc2001b85358))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED9" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 390.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 6b58c3fd-352e-429d-9e94-ecea435b8412)
+(property "Reference" "R109" (at 390.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 390.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 390.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 390.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid c2bf44d3-2afa-4373-83ae-965ca9448b67))
+(pin "2" (uuid 12bb08aa-aac9-4ee2-8d8e-460de56aadbe))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R109" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 402.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 5eee0c0f-f9fd-4b07-bbdc-6b688c9ebe21)
+(property "Reference" "LED10" (at 402.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 402.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 402.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 402.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 9c3875ed-83f8-4f84-bdb7-95694492c3f0))
+(pin "2" (uuid 2f167eef-3a8c-4ddf-a7e8-5325a0a5fd52))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED10" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 410.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 1bdfb71d-6e26-4491-b085-104d7b4d46f0)
+(property "Reference" "R110" (at 410.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 410.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 410.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 410.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid c860987f-db46-46d9-aeba-3d8b7eb268ae))
+(pin "2" (uuid 7c4313ea-e673-4ba4-8418-77b89b924bc3))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R110" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 422.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 820b9631-317c-48fd-a37c-8a7ad9cec599)
+(property "Reference" "LED11" (at 422.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 422.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 422.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 422.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 812c7c8f-cab2-47e1-ab59-9600afb097b6))
+(pin "2" (uuid c788eaa4-db48-429b-a1e1-a2a829947c5d))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED11" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 430.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 30a9908f-c25d-48a1-90c1-fcb15f9f0f50)
+(property "Reference" "R111" (at 430.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 430.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 430.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 430.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid f35fd636-3c01-4e25-ae73-eab6ead48d12))
+(pin "2" (uuid 7126415a-e98f-4c88-9aed-404ca5371fd7))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R111" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 442.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid a28227ae-84e0-482b-92ff-f9507e33afa5)
+(property "Reference" "LED12" (at 442.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 442.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 442.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 442.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid fc6a5e8f-30fd-4210-a91d-683d6515dfcb))
+(pin "2" (uuid b231188c-bbcc-469d-8a8e-106e84245214))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED12" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 450.25 48.26 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 0d643def-9165-4b7b-aaca-aafa36888930)
+(property "Reference" "R112" (at 450.25 43.18 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 450.25 44.449999999999996 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 450.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 450.25 48.26 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 65bad88a-4677-4053-a737-00d8653bbd68))
+(pin "2" (uuid db718c4c-570d-4399-942f-2c7aa55377d5))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R112" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 382.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 5eb32081-3f02-43f9-8e0b-81f9985c3a14)
+(property "Reference" "LED13" (at 382.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 382.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 382.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 382.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid e9ff0570-10b7-41f7-8f55-40d9a0d91daf))
+(pin "2" (uuid 9c555af8-0db7-4c13-bc7d-4ff38a80c23b))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED13" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 390.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 1160409a-866d-4e91-9935-8e3f0acb85f5)
+(property "Reference" "R113" (at 390.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 390.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 390.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 390.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid ac83ce71-664f-4fbb-aec8-afd622cefd03))
+(pin "2" (uuid 303f0ebe-e257-422d-95ae-db781af8f34e))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R113" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 402.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid b138477d-7c44-4b29-b65b-1e518d5ca8dc)
+(property "Reference" "LED14" (at 402.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 402.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 402.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 402.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid b93835b2-1480-42ab-9dbe-d32cc1121e0b))
+(pin "2" (uuid f570c97a-cda8-4ee6-8c49-10ba6023645d))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED14" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 410.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 4841492a-d50e-4dd6-be20-420cd62feb21)
+(property "Reference" "R114" (at 410.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 410.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 410.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 410.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid b6426137-366b-4409-a370-2f30b71047a7))
+(pin "2" (uuid 81bcada1-e5fb-46e4-891e-4502c6d68045))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R114" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 422.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid ee254408-b83c-40a5-a04b-adef04491b29)
+(property "Reference" "LED15" (at 422.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 422.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 422.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 422.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid b007d415-ec52-4006-9ca5-cb8848d2014c))
+(pin "2" (uuid bcb27a4b-c6dc-4881-8c47-11c38b66b1b6))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED15" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 430.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 6e8b8d9b-8cd0-4559-91b8-3e3c25343c0e)
+(property "Reference" "R115" (at 430.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 430.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 430.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 430.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 08410258-111c-47a0-b7bf-a91b1e4296c4))
+(pin "2" (uuid f5f10fb3-c3a2-49f9-8963-de5d292dac08))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R115" ) (unit 1)))))
+(symbol (lib_id "Device:LED") (at 442.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid e930cb32-3635-40cb-892a-4d5950d4be2c)
+(property "Reference" "LED16" (at 442.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "LED" (at 442.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:LED_1206" (at 442.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 442.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid 83ddcb03-c63a-43d5-bf7e-e79ca9aa9045))
+(pin "2" (uuid 41608abb-d6e4-4fac-ba5c-6fe091a764f4))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "LED16" ) (unit 1)))))
+(symbol (lib_id "Device:R") (at 450.25 60.959999999999994 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 1c263cd5-9286-4d5f-a125-9e570b5f37dc)
+(property "Reference" "R116" (at 450.25 55.879999999999995 0) (effects (font (size 1.27 1.27))))
+(property "Value" "1k" (at 450.25 57.14999999999999 0) (effects (font (size 1.27 1.27)) hide))
+(property "Footprint" "ScottoKeebs_Components:Resistor_0805" (at 450.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(property "Datasheet" "~" (at 450.25 60.959999999999994 0) (effects (font (size 1.27 1.27)) hide))
+(pin "1" (uuid abafd36d-8d72-4344-bc36-57d6e94b0e1b))
+(pin "2" (uuid ca25bbf3-114b-4b13-abb4-2816f7b69787))
+(instances (project "template" (path "/9e45a776-7007-48ff-b543-dc98423173b7" (reference "R116" ) (unit 1)))))
 
 (symbol (lib_id "Switch:SW_Push_45deg") (at 29.21 22.86 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid 4d26121a-c7ab-4c0c-9f41-d899014d8257) 
 
@@ -7138,6 +7359,5 @@
 (label "BL_NEG" (at 438.44 60.96 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 5f6edba3-bf80-4c94-b367-13077c4b7735))
 
 (label "+3V3" (at 450.25 64.77 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid f66d639f-4c0c-4e76-90c4-194cefc00242))
-(label "+3V3" (at 297.17 175.26 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 7c55514d-c24e-4377-849d-f9a5579011a7))
-(label "BL_NEG" (at 297.17 172.72 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify left bottom)) (uuid 77d6e0c4-3972-42ed-90ce-3dac95bf7bc9))
+(sheet_instances (path "/" (page "1")))
 )
